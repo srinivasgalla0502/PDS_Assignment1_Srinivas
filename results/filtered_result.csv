@@ -1,0 +1,688 @@
+Unnamed: 0,Name,Location,Year,Kilometers_Driven,Mileage,Engine,Power,Seats,Price,Fuel_Type_Electric,Fuel_Type_Petrol,Transmission_Manual,Owner_Type_Fourth & Above,Owner_Type_Second,Owner_Type_Third,Car_Age
+13,Land Rover Range Rover 2.2L Pure,Delhi,2014,72000,12.7,2179.0,187.7,5.0,27.0,False,False,False,False,False,False,11
+19,Mercedes-Benz New C-Class C 220 CDI BE Avantgare,Bangalore,2014,78500,14.84,2143.0,167.62,5.0,28.0,False,False,False,False,False,False,11
+22,Audi A6 2011-2015 35 TFSI Technology,Mumbai,2015,55985,13.53,1984.0,177.01,5.0,23.5,False,True,False,False,False,False,10
+38,Mercedes-Benz M-Class ML 350 CDI,Pune,2013,85000,11.74,2987.0,254.8,5.0,28.0,False,False,False,False,False,False,12
+50,Audi A4 2.0 TDI 177 Bhp Premium Plus,Kochi,2015,13648,17.11,1968.0,174.33,5.0,21.43,False,False,False,False,False,False,10
+62,Mercedes-Benz New C-Class C 200 CGI Avantgarde,Delhi,2015,58000,11.74,1796.0,186.0,5.0,26.7,False,True,False,False,False,False,10
+67,Mercedes-Benz C-Class Progressive C 220d,Coimbatore,2019,15369,0.0,1950.0,194.0,5.0,35.67,False,False,False,False,False,False,6
+75,Audi A6 2.0 TDI Design Edition,Delhi,2014,56000,18.53,1968.0,187.74,5.0,29.5,False,False,False,False,True,False,11
+92,Audi A6 2011-2015 35 TDI Premium,Coimbatore,2018,48367,17.68,1968.0,174.33,5.0,39.58,False,False,False,False,False,False,7
+107,Jaguar XF 3.0 Litre S Premium Luxury,Hyderabad,2011,78000,14.74,2993.0,270.9,5.0,24.0,False,False,False,False,True,False,14
+113,BMW 3 Series 320d Luxury Line,Mumbai,2015,56087,22.69,1995.0,190.0,5.0,20.75,False,False,False,False,False,False,10
+134,Mercedes-Benz SLC 43 AMG,Kolkata,2017,13372,19.0,2996.0,362.07,2.0,54.0,False,True,False,False,False,False,8
+148,Audi RS5 Coupe,Mumbai,2013,23000,11.05,2894.0,444.0,4.0,37.0,False,True,False,False,False,False,12
+149,BMW 3 Series Luxury Line,Mumbai,2014,48000,21.76,1995.0,190.0,5.0,26.5,False,False,False,False,False,False,11
+150,Audi A4 2.0 TDI 177 Bhp Premium Plus,Coimbatore,2015,48214,17.11,1968.0,174.33,5.0,23.32,False,False,False,False,False,False,10
+152,Mercedes-Benz S Class 2005 2013 S 500,Kolkata,2010,35277,7.81,5461.0,362.9,5.0,30.0,False,True,False,False,False,False,15
+168,BMW X5 xDrive 30d,Mumbai,2015,41000,15.3,2993.0,258.0,5.0,45.0,False,False,False,False,False,False,10
+169,Mercedes-Benz New C-Class C 220 CDI Style,Coimbatore,2017,23550,19.27,2143.0,167.62,5.0,33.66,False,False,False,False,False,False,8
+172,Mercedes-Benz GLC 220,Bangalore,2016,44414,17.9,2143.0,170.0,5.0,42.5,False,False,False,False,False,False,9
+176,Mini Countryman Cooper D,Jaipur,2017,8525,16.6,1998.0,112.0,5.0,23.0,False,False,False,False,True,False,8
+178,Audi A6 2011-2015 2.0 TDI Premium Plus,Mumbai,2014,40000,17.68,1968.0,174.33,5.0,22.95,False,False,False,False,False,False,11
+182,BMW 5 Series 520d Luxury Line,Hyderabad,2014,51000,22.48,1995.0,190.0,5.0,33.5,False,False,False,False,False,False,11
+186,Mercedes-Benz E-Class E250 CDI Avantgrade,Bangalore,2014,37382,13.0,2143.0,201.1,5.0,32.0,False,False,False,False,False,False,11
+191,Land Rover Range Rover 2.2L Dynamic,Coimbatore,2018,36091,12.7,2179.0,187.7,5.0,55.76,False,False,False,False,False,False,7
+216,Audi A8 L 3.0 TDI quattro,Delhi,2012,56000,11.8,2967.0,246.7,5.0,45.0,False,False,False,False,False,False,13
+219,Skoda Superb Style 1.8 TSI AT,Hyderabad,2017,26000,14.67,1798.0,177.46,5.0,26.0,False,True,False,False,False,False,8
+224,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,29161,19.27,2143.0,167.62,5.0,39.41,False,False,False,False,False,False,7
+228,Mini Cooper Convertible S,Kochi,2017,26327,16.82,1998.0,189.08,4.0,35.67,False,True,False,False,False,False,8
+255,Hyundai Tucson 2.0 e-VGT 2WD AT GLS,Kochi,2018,51346,16.38,1995.0,183.0,5.0,21.99,False,False,False,False,False,False,7
+264,Mercedes-Benz GLE 350d,Coimbatore,2017,29819,11.57,2987.0,254.79,5.0,61.29,False,False,False,False,False,False,8
+271,BMW X3 xDrive30d M Sport,Coimbatore,2017,51982,16.55,2993.0,258.0,5.0,45.77,False,False,False,False,False,False,8
+282,Audi Q7 3.0 TDI Quattro Technology,Kochi,2018,11287,12.07,2967.0,241.4,7.0,70.36,False,False,False,False,False,False,7
+291,BMW 5 Series 2003-2012 520d,Pune,2015,64000,18.48,1995.0,177.0,5.0,28.0,False,False,False,False,False,False,10
+298,Toyota Innova Crysta 2.4 ZX MT,Chennai,2016,48000,13.68,2393.0,147.8,7.0,20.25,False,False,True,False,False,False,9
+299,Audi A6 2011-2015 2.0 TDI Technology,Kochi,2015,31652,17.68,1968.0,174.33,5.0,26.78,False,False,False,False,False,False,10
+305,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2014,61726,17.68,1968.0,174.33,5.0,20.77,False,False,False,False,False,False,11
+306,Mercedes-Benz GLA Class 200 CDI SPORT,Delhi,2015,48000,17.9,2143.0,136.0,5.0,20.26,False,False,False,False,False,False,10
+310,Mercedes-Benz GLE 250d,Hyderabad,2017,29000,17.9,2143.0,201.15,5.0,57.0,False,False,False,False,False,False,8
+311,Land Rover Range Rover HSE Dynamic,Delhi,2017,44000,12.7,2179.0,187.7,5.0,44.0,False,False,False,False,False,False,8
+325,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2014,51495,17.68,1968.0,174.33,5.0,21.95,False,False,False,False,False,False,11
+326,BMW 6 Series 640d Gran Coupe,Mumbai,2011,30000,9.52,2993.0,313.0,4.0,49.0,False,False,False,False,False,False,14
+327,Audi Q7 45 TDI Quattro Technology,Coimbatore,2017,97430,14.75,2967.0,245.0,7.0,62.67,False,False,False,False,False,False,8
+348,BMW 3 Series Luxury Line,Kochi,2015,30717,21.76,1995.0,190.0,5.0,25.99,False,False,False,False,True,False,10
+355,Jaguar XF 2.0 Diesel Portfolio,Hyderabad,2017,21000,19.33,1999.0,177.0,5.0,52.0,False,False,False,False,False,False,8
+357,Skoda Superb L&K 1.8 TSI AT,Kochi,2019,13747,14.67,1798.0,177.46,5.0,27.3,False,True,False,False,False,False,6
+365,Mini Clubman Cooper S,Pune,2017,8350,13.8,1998.0,192.0,5.0,35.0,False,True,True,False,False,False,8
+378,Mercedes-Benz New C-Class 220,Chennai,2014,25000,15.8,2148.0,170.0,5.0,26.0,False,False,True,False,False,False,11
+382,Mercedes-Benz E-Class 2009-2013 E250 CDI Avantgarde,Jaipur,2014,59364,14.21,2143.0,203.0,5.0,26.5,False,False,False,False,False,False,11
+384,Mercedes-Benz E-Class 2015-2017 E250 Edition E,Bangalore,2017,33900,15.0,2143.0,204.0,5.0,37.0,False,False,False,False,False,False,8
+389,Jaguar XE Portfolio,Mumbai,2017,9000,13.5,1999.0,246.74,5.0,34.5,False,True,False,False,False,False,8
+391,Mini Cooper Convertible 1.6,Bangalore,2015,20000,18.86,1598.0,122.0,4.0,32.0,False,True,False,False,False,False,10
+392,Mercedes-Benz S Class 2005 2013 S 350 CDI,Coimbatore,2017,56451,13.5,2987.0,282.0,5.0,62.81,False,False,False,False,False,False,8
+399,Land Rover Range Rover 2.2L Dynamic,Hyderabad,2012,56000,12.7,2179.0,187.7,5.0,30.0,False,False,False,False,False,False,13
+400,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Pune,2010,85001,12.0,2987.0,224.0,7.0,28.0,False,False,False,False,True,False,15
+401,Mitsubishi Pajero Sport 4X2 AT DualTone BlackTop,Hyderabad,2018,12000,13.5,2477.0,175.56,7.0,28.0,False,False,False,False,False,False,7
+404,Land Rover Range Rover 2.2L Prestige,Coimbatore,2017,34990,12.7,2179.0,187.7,5.0,53.83,False,False,False,False,False,False,8
+406,BMW 5 Series 525d Sedan,Hyderabad,2013,56000,16.73,2993.0,218.0,5.0,33.5,False,False,False,False,False,False,12
+407,Jaguar XF Diesel,Bangalore,2013,75000,14.74,2993.0,270.9,5.0,27.95,False,False,False,False,False,False,12
+409,Audi Q3 35 TDI Quattro Premium,Kochi,2017,37542,15.73,1968.0,174.33,5.0,25.71,False,False,False,False,False,False,8
+410,Land Rover Range Rover 2.2L Pure,Coimbatore,2014,95649,12.7,2179.0,187.7,5.0,29.67,False,False,False,False,False,False,11
+413,BMW 3 Series Luxury Line,Mumbai,2015,41000,21.76,1995.0,190.0,5.0,25.5,False,False,False,False,False,False,10
+418,Mercedes-Benz GLC 43 AMG Coupe,Coimbatore,2018,22397,11.5,2996.0,367.0,5.0,70.99,False,True,False,False,False,False,7
+423,Audi A6 35 TFSI Matrix,Mumbai,2016,47000,15.26,1798.0,187.74,5.0,24.5,False,True,False,False,False,False,9
+427,Mini Cooper Convertible S,Mumbai,2014,11900,16.82,1998.0,189.08,4.0,28.5,False,True,False,False,False,False,11
+435,BMW 5 Series 2003-2012 GT 530d LE,Coimbatore,2011,57832,16.2,2993.0,258.0,5.0,25.82,False,False,False,False,False,False,14
+437,Volvo V40 D3,Bangalore,2015,33000,16.8,1984.0,150.0,5.0,22.0,False,False,False,False,True,False,10
+451,Audi Q5 30 TDI quattro Premium Plus,Bangalore,2014,38000,14.16,1968.0,174.3,5.0,39.0,False,False,False,False,True,False,11
+457,Audi Q3 35 TDI Quattro Premium Plus,Coimbatore,2016,86642,15.17,1968.0,181.0,5.0,20.37,False,False,False,False,False,False,9
+458,BMW 3 Series Luxury Line,Bangalore,2016,19235,21.76,1995.0,190.0,5.0,36.5,False,False,False,False,False,False,9
+459,Audi Q7 4.2 TDI Quattro Technology,Coimbatore,2016,51002,11.33,4134.0,335.2,7.0,48.91,False,False,False,False,False,False,9
+473,Mercedes-Benz E-Class E 220 d,Kochi,2018,26405,12.6,1950.0,191.34,5.0,51.43,False,True,False,False,False,False,7
+474,Mercedes-Benz New C-Class 220 CDI MT,Chennai,2014,45000,15.8,2148.0,170.0,5.0,23.0,False,False,True,False,False,False,11
+480,Land Rover Range Rover Evoque 2.0 TD4 Pure,Delhi,2015,24000,15.68,1999.0,177.0,5.0,33.5,False,False,False,False,True,False,10
+483,Toyota Fortuner 4x4 MT,Coimbatore,2017,47198,12.55,2982.0,168.5,7.0,28.42,False,False,True,False,False,False,8
+489,Mercedes-Benz GLS 350d 4MATIC,Pune,2017,129000,11.0,2987.0,258.0,7.0,56.0,False,False,False,False,False,False,8
+503,Toyota Fortuner 4x4 AT,Delhi,2017,25000,12.55,2982.0,168.5,7.0,32.0,False,False,False,False,False,False,8
+516,BMW X5 xDrive 30d,Hyderabad,2011,75000,11.7,2993.0,245.0,5.0,27.5,False,False,False,False,False,False,14
+521,Land Rover Range Rover HSE Dynamic,Coimbatore,2017,49275,12.7,2179.0,187.7,5.0,45.64,False,False,False,False,False,False,8
+524,Audi A6 2011-2015 35 TDI Technology,Coimbatore,2017,41041,17.68,1968.0,174.33,5.0,37.56,False,False,False,False,False,False,8
+544,Mercedes-Benz New C-Class Progressive C 200,Kochi,2019,13190,0.0,1950.0,181.43,5.0,38.99,False,True,False,False,False,False,6
+549,BMW X1 sDrive 20d xLine,Coimbatore,2017,31645,20.68,1995.0,190.0,5.0,29.4,False,False,False,False,False,False,8
+557,Audi TT 2.0 TFSI,Delhi,2013,12100,9.9,1984.0,207.8,2.0,29.5,False,True,False,False,False,False,12
+563,BMW 3 Series 320d Luxury Line,Bangalore,2014,47000,18.88,1995.0,184.0,5.0,25.5,False,False,False,False,False,False,11
+566,Jaguar XF 2.2 Litre Luxury,Kochi,2015,37340,16.36,2179.0,187.7,5.0,29.98,False,False,False,False,False,False,10
+583,BMW X1 sDrive 20d Sportline,Chennai,2016,21000,17.05,1995.0,184.0,5.0,33.0,False,False,False,False,False,False,9
+586,Audi Q7 4.2 TDI Quattro Technology,Kochi,2014,79926,11.33,4134.0,335.2,7.0,29.77,False,False,False,False,False,False,11
+593,BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater,Mumbai,2014,19000,15.97,2993.0,258.0,7.0,44.0,False,False,False,False,False,False,11
+596,Audi A6 2011-2015 35 TFSI Technology,Kochi,2016,58953,13.53,1984.0,177.01,5.0,24.22,False,True,False,False,False,False,9
+598,Jaguar XF 2.2 Litre Executive,Delhi,2016,10000,16.36,2179.0,187.7,5.0,44.0,False,False,False,False,False,False,9
+599,Toyota Innova Crysta 2.8 ZX AT,Coimbatore,2019,40674,11.36,2755.0,171.5,7.0,24.82,False,False,False,False,False,False,6
+603,Mercedes-Benz GLC 220d 4MATIC Style,Mumbai,2018,10003,17.9,2143.0,170.0,5.0,48.5,False,False,False,False,False,False,7
+608,BMW 5 Series 2013-2017 530d M Sport,Coimbatore,2016,20967,14.69,2993.0,258.0,5.0,44.56,False,False,False,False,False,False,9
+628,Toyota Fortuner 4x2 Manual,Hyderabad,2014,107825,13.0,2982.0,168.5,7.0,20.5,False,False,True,False,False,False,11
+632,Mini Cooper 5 DOOR D,Mumbai,2016,11000,20.7,1496.0,113.98,5.0,29.5,False,False,False,False,False,False,9
+633,Audi Q3 35 TDI Quattro Premium,Hyderabad,2015,61000,15.73,1968.0,174.33,5.0,25.0,False,False,False,False,False,False,10
+640,BMW 5 Series 2013-2017 520d Luxury Line,Coimbatore,2016,19658,18.12,1995.0,190.0,5.0,35.84,False,False,False,False,False,False,9
+644,BMW 3 Series 320d Highline,Bangalore,2014,69330,16.07,1995.0,181.0,5.0,23.5,False,False,False,False,False,False,11
+651,Mercedes-Benz New C-Class C 250 CDI Avantgarde,Coimbatore,2017,25559,19.71,2143.0,201.15,5.0,37.93,False,False,False,False,False,False,8
+653,Toyota Fortuner 4x2 4 Speed AT,Jaipur,2015,94000,11.5,2982.0,169.0,7.0,20.5,False,False,False,False,False,False,10
+655,Jaguar XJ 2.0L Portfolio,Mumbai,2017,10501,9.43,1999.0,237.4,5.0,75.0,False,True,False,False,False,False,8
+659,Audi A6 2011-2015 2.0 TDI Premium Plus,Coimbatore,2014,49964,17.68,1968.0,174.33,5.0,23.89,False,False,False,False,False,False,11
+693,Mercedes-Benz SLK-Class SLK 350,Coimbatore,2016,22732,18.1,3498.0,306.0,2.0,55.54,False,True,False,False,False,False,9
+694,Audi A6 2.0 TDI Design Edition,Hyderabad,2014,48000,18.53,1968.0,187.74,5.0,29.0,False,False,False,False,False,False,11
+703,Ford Endeavour 3.2 Trend AT 4X4,Coimbatore,2017,50484,10.91,3198.0,197.2,7.0,31.12,False,False,False,False,False,False,8
+704,Audi Q5 2008-2012 2.0 TDI,Kochi,2013,13452,12.8,1968.0,167.6,5.0,25.46,False,False,False,False,False,False,12
+706,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Chennai,2017,34000,13.0,2143.0,204.0,5.0,36.0,False,False,False,False,False,False,8
+707,Mercedes-Benz M-Class ML 350 4Matic,Pune,2014,120000,0.0,2987.0,165.0,5.0,30.0,False,False,False,False,False,False,11
+712,BMW X5 xDrive 30d Design Pure Experience 5 Seater,Hyderabad,2015,69000,15.97,2993.0,258.0,5.0,54.0,False,False,False,False,False,False,10
+719,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2015,46983,12.07,2967.0,241.4,7.0,43.35,False,False,False,False,True,False,10
+723,BMW 3 Series 320d Luxury Plus,Ahmedabad,2015,100000,18.88,1995.0,184.0,5.0,24.75,False,False,False,False,False,False,10
+746,Mini Cooper 5 DOOR D,Hyderabad,2014,60000,20.7,1496.0,113.98,5.0,23.5,False,False,False,False,True,False,11
+749,Land Rover Range Rover 3.0 D,Mumbai,2008,55001,0.0,,,5.0,26.5,False,False,False,False,True,False,17
+751,Jaguar XF 2.2 Litre Luxury,Coimbatore,2016,47877,16.36,2179.0,187.7,5.0,35.68,False,False,False,False,False,False,9
+752,Mercedes-Benz E-Class 2015-2017 E250 Edition E,Kochi,2017,43368,15.0,2143.0,204.0,5.0,31.94,False,False,False,False,False,False,8
+766,BMW 3 Series 320d Luxury Line,Coimbatore,2016,14351,18.88,1995.0,184.0,5.0,35.55,False,False,False,False,False,False,9
+772,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,36797,19.27,2143.0,167.62,5.0,39.47,False,False,False,False,False,False,7
+778,Audi Q3 2012-2015 35 TDI Quattro Premium Plus,Bangalore,2015,76927,15.73,1968.0,174.33,5.0,22.75,False,False,False,False,False,False,10
+798,Mercedes-Benz SLK-Class SLK 350,Bangalore,2015,10000,18.1,3498.0,306.0,2.0,55.0,False,True,False,False,False,False,10
+802,Mercedes-Benz GLE 250d,Mumbai,2016,21000,17.9,2143.0,201.15,5.0,56.0,False,False,False,False,False,False,9
+806,Ford Endeavour 3.2 Titanium AT 4X4,Coimbatore,2017,59636,10.91,3198.0,197.0,7.0,29.2,False,False,False,False,False,False,8
+818,BMW 5 Series 2003-2012 530d Highline,Coimbatore,2013,108640,11.5,2993.0,235.0,5.0,23.29,False,False,False,False,False,False,12
+819,BMW 3 Series 320d M Sport,Mumbai,2016,38000,22.69,1995.0,190.0,5.0,23.99,False,False,False,False,False,False,9
+842,BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater,Mumbai,2014,47000,15.97,2993.0,258.0,7.0,41.5,False,False,False,False,False,False,11
+864,Jaguar XF 2.2 Litre Luxury,Coimbatore,2015,44194,16.36,2179.0,187.7,5.0,32.8,False,False,False,False,False,False,10
+866,Mercedes-Benz E-Class Facelift,Coimbatore,2018,56652,13.0,2987.0,258.0,5.0,50.29,False,False,False,False,False,False,7
+873,Toyota Fortuner 4x2 AT,Coimbatore,2015,101337,12.55,2982.0,168.5,7.0,21.67,False,False,False,False,False,False,10
+886,Audi TT 40 TFSI,Kolkata,2012,7000,14.33,1984.0,226.6,4.0,35.0,False,True,False,False,False,False,13
+895,Mercedes-Benz E-Class E250 CDI Avantgrade,Kochi,2015,42076,13.0,2143.0,201.1,5.0,21.8,False,False,False,False,False,False,10
+899,Toyota Camry Hybrid,Pune,2018,17000,19.16,2494.0,158.2,5.0,32.0,False,True,False,False,False,False,7
+902,Audi A6 2011-2015 2.0 TDI,Hyderabad,2013,70181,17.68,1968.0,174.33,5.0,23.99,False,False,False,False,False,False,12
+904,Mercedes-Benz New C-Class C 220 CDI Style,Jaipur,2016,58205,19.27,2143.0,167.62,5.0,27.0,False,False,False,False,False,False,9
+913,Audi Q5 30 TDI quattro Premium,Coimbatore,2017,40318,14.16,1968.0,174.3,5.0,43.74,False,False,False,False,False,False,8
+918,BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater,Hyderabad,2016,76000,15.97,2993.0,258.0,7.0,58.0,False,False,False,False,False,False,9
+939,Jaguar XF Diesel,Kolkata,2012,43510,14.74,2993.0,270.9,5.0,20.5,False,False,False,False,False,False,13
+941,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,Kochi,2018,31427,15.68,1999.0,177.0,5.0,59.72,False,False,False,False,False,False,7
+957,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Pune,2015,50000,19.27,2143.0,167.62,5.0,30.0,False,False,False,False,False,False,10
+962,Mercedes-Benz C-Class Progressive C 220d,Mumbai,2018,8682,0.0,1950.0,194.0,5.0,39.5,False,False,False,False,False,False,7
+966,Mercedes-Benz CLA 200 CDI Sport,Coimbatore,2017,13689,17.9,2143.0,136.0,5.0,28.25,False,False,False,False,False,False,8
+975,Ford Endeavour 2.2 Trend AT 4X2,Kochi,2019,11209,12.62,2198.0,158.0,7.0,31.15,False,False,False,False,False,False,6
+1028,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Delhi,2014,85000,11.3,2987.0,254.8,7.0,38.75,False,False,False,False,False,False,11
+1037,Jaguar XF 2.2 Litre Luxury,Delhi,2014,48000,16.36,2179.0,187.7,5.0,26.5,False,False,False,False,False,False,11
+1038,Land Rover Range Rover TDV8 (Diesel),Bangalore,2011,55000,10.2,4367.0,308.0,7.0,67.0,False,False,False,False,False,False,14
+1044,Audi A4 35 TDI Technology,Hyderabad,2015,45000,18.25,1968.0,187.74,5.0,25.0,False,False,False,False,False,False,10
+1065,Toyota Innova Crysta 2.8 ZX AT,Bangalore,2016,108000,11.36,2755.0,171.5,7.0,20.5,False,False,False,False,False,False,9
+1076,Ford Endeavour 3.2 Titanium AT 4X4,Hyderabad,2016,68000,10.91,3198.0,197.0,7.0,29.5,False,False,False,False,False,False,9
+1078,Porsche Boxster S tiptronic,Kolkata,2015,10512,8.6,2706.0,265.0,2.0,64.0,False,True,False,False,False,False,10
+1093,Audi Q7 4.2 TDI Quattro Technology,Bangalore,2014,50000,11.33,4134.0,335.2,7.0,51.0,False,False,False,False,False,False,11
+1104,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2015,53735,12.07,2967.0,241.4,7.0,38.94,False,False,False,False,True,False,10
+1106,BMW 5 Series 2013-2017 525d Luxury Line,Bangalore,2013,58500,17.09,1995.0,218.0,5.0,27.5,False,False,False,False,True,False,12
+1113,Mercedes-Benz E-Class E 220 d,Kochi,2018,20446,12.6,1950.0,191.34,5.0,51.35,False,True,False,False,False,False,7
+1117,Mini Cooper 5 DOOR D,Ahmedabad,2014,34000,20.7,1496.0,113.98,5.0,22.0,False,False,False,False,False,False,11
+1120,Mercedes-Benz E-Class 2009-2013 E 220 CDI Avantgarde,Hyderabad,2013,34700,10.0,2148.0,170.0,5.0,24.5,False,False,False,False,False,False,12
+1138,BMW 5 Series 2013-2017 530d M Sport,Bangalore,2015,16900,14.69,2993.0,258.0,5.0,44.0,False,False,False,False,False,False,10
+1144,Mercedes-Benz E-Class 2009-2013 E 200 CGI Avantgarde,Kochi,2016,35939,12.3,1796.0,185.0,5.0,30.42,False,True,True,False,False,False,9
+1192,Volvo S60 D4 Momentum,Hyderabad,2015,51000,27.03,1969.0,190.0,5.0,25.0,False,False,False,False,False,False,10
+1194,Mercedes-Benz E-Class 2015-2017 E350 CDI Avantgrade,Mumbai,2017,15000,13.0,2987.0,265.0,5.0,69.5,False,False,False,False,False,False,8
+1197,Toyota Innova Crysta 2.4 VX MT,Hyderabad,2017,24393,13.68,2393.0,147.8,7.0,20.4,False,False,True,False,False,False,8
+1209,Audi Q7 35 TDI Quattro Premium Plus,Mumbai,2015,65938,12.07,2967.0,241.4,7.0,38.0,False,False,False,False,True,False,10
+1220,BMW 5 Series 2013-2017 520d Luxury Line,Ahmedabad,2014,35000,18.12,1995.0,190.0,5.0,23.0,False,False,False,False,True,False,11
+1233,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Kochi,2017,36884,13.0,2143.0,204.0,5.0,32.25,False,False,False,False,False,False,8
+1237,Audi Q3 2.0 TDI Quattro,Hyderabad,2013,60000,17.32,1968.0,184.0,5.0,21.0,False,False,False,False,False,False,12
+1242,Jaguar XE 2.0L Diesel Prestige,Delhi,2018,1000,13.6,1999.0,177.0,5.0,40.0,False,False,False,False,False,False,7
+1245,Toyota Camry 2.5 Hybrid,Pune,2018,17585,19.16,2494.0,157.7,5.0,32.0,False,True,False,False,False,False,7
+1246,Audi Q5 3.0 TDI Quattro,Coimbatore,2018,32496,13.22,2967.0,241.4,5.0,45.62,False,False,False,False,False,False,7
+1258,Mercedes-Benz E-Class E250 CDI Avantgrade,Delhi,2014,40000,13.0,2143.0,201.1,5.0,24.0,False,False,False,False,False,False,11
+1260,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Bangalore,2016,51944,19.27,2143.0,170.0,5.0,32.5,False,False,False,False,False,False,9
+1288,Audi TT 2.0 TFSI,Kochi,2014,14262,9.9,1984.0,207.8,2.0,27.35,False,True,False,False,False,False,11
+1299,Land Rover Discovery 4 TDV6 SE,Delhi,2013,65000,11.8,2993.0,180.0,7.0,34.0,False,False,False,False,True,False,12
+1302,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2014,57456,17.68,1968.0,174.33,5.0,21.56,False,False,False,False,False,False,11
+1303,BMW 5 Series 520d Luxury Line,Coimbatore,2012,44450,22.48,1995.0,190.0,5.0,24.68,False,False,False,False,False,False,13
+1305,BMW X1 M Sport sDrive 20d,Mumbai,2016,31000,17.05,1995.0,190.0,5.0,29.5,False,False,False,False,False,False,9
+1308,Mercedes-Benz M-Class ML 350 4Matic,Bangalore,2014,33000,0.0,2987.0,165.0,5.0,43.0,False,False,False,False,True,False,11
+1336,Audi Q7 45 TDI Quattro Technology,Mumbai,2016,20002,14.75,2967.0,245.0,7.0,67.0,False,False,False,False,False,False,9
+1349,BMW 3 Series 320d Sport Line,Hyderabad,2015,10000,18.88,1995.0,184.0,5.0,30.0,False,False,False,False,False,False,10
+1352,Land Rover Range Rover 3.6 TDV8 Vogue SE Diesel,Bangalore,2012,66538,10.2,4367.0,308.0,7.0,70.0,False,False,False,False,False,False,13
+1379,Mercedes-Benz E-Class 2015-2017 E350 Edition E,Jaipur,2015,41493,13.0,2987.0,265.0,5.0,42.0,False,False,False,False,False,False,10
+1386,BMW 5 Series 520d Sport Line,Kochi,2019,18373,22.48,1995.0,187.74,5.0,45.86,False,False,False,False,False,False,6
+1390,BMW 3 Series 320d Luxury Line,Hyderabad,2013,30000,18.88,1995.0,184.0,5.0,22.0,False,False,False,False,False,False,12
+1397,BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater,Kochi,2016,35659,15.97,2993.0,258.0,7.0,43.78,False,False,False,False,False,False,9
+1413,Audi A7 2011-2015 3.0 TDI Quattro,Mumbai,2011,42000,14.4,2967.0,241.4,5.0,28.75,False,False,False,False,False,False,14
+1420,Mercedes-Benz GLA Class 200 CDI SPORT,Pune,2017,50000,17.9,2143.0,136.0,5.0,25.0,False,False,False,False,False,False,8
+1430,Ford Endeavour 3.2 Trend AT 4X4,Kochi,2018,30552,10.91,3198.0,197.2,7.0,32.44,False,False,False,False,False,False,7
+1451,Mercedes-Benz New C-Class C 220CDIBE Avantgarde Command,Hyderabad,2014,51355,14.84,2143.0,170.0,5.0,27.0,False,False,False,False,False,False,11
+1460,Land Rover Range Rover Sport 2005 2012 Sport,Coimbatore,2008,69078,0.0,,,5.0,40.88,False,True,True,False,False,False,17
+1461,Audi Q3 2.0 TDI Quattro,Ahmedabad,2016,45000,17.32,1968.0,184.0,5.0,27.0,False,False,False,False,False,False,9
+1464,Audi Q5 2.0 TDI Premium Plus,Hyderabad,2016,43000,14.16,1968.0,174.3,5.0,39.5,False,False,False,False,False,False,9
+1476,Mini Cooper Countryman D,Hyderabad,2013,51000,23.8,1998.0,112.0,5.0,21.94,False,False,False,False,False,False,12
+1477,Mercedes-Benz S Class 2005 2013 320 CDI,Chennai,2009,42000,13.0,2987.0,210.0,5.0,22.0,False,False,False,False,True,False,16
+1496,Jaguar XJ 3.0L Portfolio LWB,Kochi,2016,17652,12.9,2993.0,270.88,5.0,58.73,False,False,False,False,False,False,9
+1505,Land Rover Range Rover Sport SE,Kochi,2019,26013,12.65,2993.0,255.0,5.0,97.07,False,False,False,False,False,False,6
+1508,BMW X3 xDrive20d,Coimbatore,2014,41089,16.09,1995.0,184.0,5.0,28.79,False,False,False,False,False,False,11
+1513,Land Rover Range Rover 2.2L Pure,Bangalore,2014,56000,12.7,2179.0,187.7,5.0,34.5,False,False,False,False,False,False,11
+1516,Toyota Fortuner 4x4 MT,Hyderabad,2018,39927,12.55,2982.0,168.5,7.0,32.1,False,False,True,False,False,False,7
+1532,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,11241,13.68,2393.0,147.8,8.0,22.55,False,False,True,False,False,False,6
+1537,Audi Q5 2008-2012 3.0 TDI,Chennai,2014,25000,12.19,2967.0,236.0,5.0,44.0,False,False,False,False,False,False,11
+1541,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Bangalore,2014,52000,12.0,2987.0,224.0,7.0,49.0,False,False,False,False,False,False,11
+1545,Mini Cooper 3 DOOR D,Mumbai,2016,20000,20.7,1496.0,113.98,4.0,23.5,False,False,False,False,False,False,9
+1548,Mercedes-Benz E-Class 2009-2013 E250 CDI Elegance,Coimbatore,2016,38730,14.21,2143.0,203.0,5.0,29.98,False,False,False,False,False,False,9
+1562,Audi Q7 35 TDI Quattro Technology,Bangalore,2015,21000,12.07,2967.0,241.4,7.0,48.0,False,False,False,False,False,False,10
+1568,Land Rover Discovery Sport TD4 HSE 7S,Mumbai,2017,40000,12.81,1999.0,148.31,7.0,41.5,False,False,False,False,False,False,8
+1574,Volkswagen Tiguan 2.0 TDI Highline,Jaipur,2017,50510,17.06,1968.0,141.0,5.0,24.9,False,False,False,False,False,False,8
+1577,Mercedes-Benz E-Class E250 CDI Avantgrade,Mumbai,2014,46000,13.0,2143.0,201.1,5.0,23.25,False,False,False,False,False,False,11
+1583,Audi Q7 45 TDI Quattro Premium Plus,Kochi,2019,6773,14.75,2967.0,245.0,7.0,72.94,False,False,False,False,False,False,6
+1631,BMW X1 M Sport sDrive 20d,Kochi,2017,32838,17.05,1995.0,190.0,5.0,30.29,False,False,False,False,False,False,8
+1637,Audi A4 35 TDI Premium,Coimbatore,2016,68193,17.11,1968.0,174.33,5.0,24.74,False,False,False,False,False,False,9
+1639,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Delhi,2013,46000,12.0,2987.0,224.0,7.0,36.0,False,False,False,False,False,False,12
+1652,Jaguar XE 2.0L Diesel Prestige,Hyderabad,2017,4000,13.6,1999.0,177.0,5.0,38.0,False,False,False,False,False,False,8
+1668,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Mumbai,2014,52000,13.0,2143.0,204.0,5.0,24.5,False,False,False,False,False,False,11
+1673,Audi Q5 3.0 TDI Quattro Technology,Mumbai,2015,11964,13.22,2967.0,241.4,5.0,32.95,False,False,False,False,False,False,10
+1683,Mercedes-Benz New C-Class C 220 CDI Elegance AT,Coimbatore,2017,32642,14.84,2143.0,170.0,5.0,34.78,False,False,False,False,False,False,8
+1689,BMW 5 Series 520d Luxury Line,Kochi,2018,32586,22.48,1995.0,190.0,5.0,37.3,False,False,False,False,False,False,7
+1690,Mercedes-Benz GLE 350d,Coimbatore,2018,40129,11.57,2987.0,254.79,5.0,70.8,False,False,False,False,False,False,7
+1691,Mercedes-Benz M-Class ML 350 CDI,Mumbai,2012,51000,11.74,2987.0,254.8,5.0,22.25,False,False,False,False,False,False,13
+1707,BMW 3 Series 320d GT Luxury Line,Mumbai,2015,32500,19.59,1995.0,187.74,5.0,26.75,False,False,False,False,False,False,10
+1708,Audi Q3 35 TDI Quattro Premium Plus,Coimbatore,2016,58661,15.17,1968.0,181.0,5.0,28.03,False,False,False,False,False,False,9
+1724,Ford Endeavour 3.2 Titanium AT 4X4,Delhi,2017,38000,10.91,3198.0,197.0,7.0,30.48,False,False,False,False,False,False,8
+1741,BMW X6 xDrive 40d,Hyderabad,2013,58000,11.2,2993.0,306.0,4.0,48.0,False,False,False,False,False,False,12
+1755,Porsche Cayenne Diesel,Mumbai,2013,70000,15.15,2967.0,240.0,5.0,40.0,False,False,False,False,False,False,12
+1759,BMW 5 Series 2013-2017 520d Luxury Line,Coimbatore,2016,63111,18.12,1995.0,190.0,5.0,30.8,False,False,False,False,True,False,9
+1764,Mercedes-Benz M-Class ML 350 4Matic,Pune,2015,69000,0.0,2987.0,165.0,5.0,38.0,False,False,False,False,False,False,10
+1799,Mercedes-Benz E-Class 2009-2013 E250 CDI Elegance,Bangalore,2013,29000,14.21,2143.0,203.0,5.0,29.0,False,False,False,False,False,False,12
+1807,Audi A4 2.0 TDI 177 Bhp Premium Plus,Bangalore,2014,21000,17.11,1968.0,174.33,5.0,24.5,False,False,False,False,False,False,11
+1809,Mercedes-Benz M-Class ML 350 CDI,Hyderabad,2012,83000,11.74,2987.0,254.8,5.0,36.0,False,False,False,False,False,False,13
+1819,Audi Q5 2.0 TDI,Hyderabad,2015,56000,14.16,1968.0,174.3,5.0,35.0,False,False,False,False,False,False,10
+1828,BMW X1 xDrive 20d xLine,Mumbai,2016,7000,20.68,1995.0,190.0,5.0,27.75,False,False,False,False,False,False,9
+1830,Mercedes-Benz GLE 350d,Coimbatore,2017,33552,11.57,2987.0,254.79,5.0,64.87,False,False,False,False,False,False,8
+1863,BMW 5 Series 2013-2017 520d Luxury Line,Jaipur,2017,19543,18.12,1995.0,190.0,5.0,40.5,False,False,False,False,False,False,8
+1864,Audi Q5 30 TDI quattro Premium Plus,Bangalore,2014,38000,14.16,1968.0,174.3,5.0,38.95,False,False,False,False,True,False,11
+1885,Mercedes-Benz GLS 350d Grand Edition,Delhi,2018,6000,11.0,2987.0,258.0,7.0,79.0,False,False,False,False,False,False,7
+1893,Audi A7 2011-2015 3.0 TDI Quattro,Kochi,2014,60336,14.4,2967.0,241.4,5.0,24.94,False,False,False,False,True,False,11
+1902,Toyota Fortuner 2.8 2WD AT,Ahmedabad,2017,15000,12.9,2755.0,174.5,7.0,30.0,False,False,False,False,False,False,8
+1913,Audi A6 2011-2015 2.0 TDI,Kochi,2014,62012,17.68,1968.0,174.33,5.0,20.12,False,False,False,False,False,False,11
+1924,BMW 5 Series 2013-2017 530d M Sport,Coimbatore,2017,27313,14.69,2993.0,258.0,5.0,48.63,False,False,False,False,False,False,8
+1925,Audi Q5 30 TDI quattro Premium Plus,Coimbatore,2015,42747,14.16,1968.0,174.3,5.0,39.47,False,False,False,False,True,False,10
+1926,BMW X1 sDrive 20d xLine,Coimbatore,2015,42265,20.68,1995.0,190.0,5.0,22.24,False,False,False,False,True,False,10
+1941,BMW X5 xDrive 30d,Mumbai,2012,66000,15.3,2993.0,258.0,5.0,21.0,False,False,False,False,False,False,13
+1943,Mercedes-Benz E-Class 2009-2013 E 220 CDI Avantgarde,Mumbai,2013,45200,10.0,2148.0,170.0,5.0,23.0,False,False,False,False,False,False,12
+1947,Mercedes-Benz New C-Class 220 CDI AT,Coimbatore,2017,32324,14.84,2143.0,170.0,5.0,30.5,False,False,False,False,False,False,8
+1954,Audi A3 35 TDI Technology,Delhi,2017,22000,20.38,1968.0,143.0,5.0,22.5,False,False,False,False,True,False,8
+1963,Mercedes-Benz GLA Class 200 d Sport,Pune,2017,35000,17.9,2143.0,136.0,5.0,23.5,False,False,False,False,False,False,8
+1968,Toyota Fortuner 4x4 AT,Kochi,2018,37713,12.55,2982.0,168.5,7.0,31.62,False,False,False,False,True,False,7
+1974,BMW 7 Series 740Li,Coimbatore,2018,28060,12.05,2979.0,320.0,5.0,93.67,False,True,False,False,False,False,7
+1981,Mercedes-Benz New C-Class C 220 CDI Elegance AT,Hyderabad,2013,21000,14.84,2143.0,170.0,5.0,23.5,False,False,False,False,False,False,12
+1984,BMW 7 Series 740Li,Bangalore,2017,17465,12.05,2979.0,320.0,5.0,93.0,False,True,False,False,False,False,8
+1985,BMW 3 Series 320d Sport,Chennai,2014,48000,22.69,1995.0,190.0,5.0,21.6,False,False,False,False,False,False,11
+2002,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Pune,2014,79000,12.0,2987.0,224.0,7.0,41.0,False,False,False,False,False,False,11
+2003,BMW X1 sDrive 20d xLine,Bangalore,2016,28143,20.68,1995.0,190.0,5.0,28.5,False,False,False,False,False,False,9
+2017,Jaguar XF 2.2 Litre Luxury,Mumbai,2013,31400,16.36,2179.0,187.7,5.0,26.75,False,False,False,False,False,False,12
+2019,Audi Q5 2008-2012 2.0 TDI,Bangalore,2011,53000,12.8,1968.0,167.6,5.0,23.0,False,False,False,False,False,False,14
+2040,Mercedes-Benz E-Class 2009-2013 E 200 CGI Elegance,Bangalore,2011,25000,12.3,1796.0,185.0,5.0,22.0,False,True,False,False,True,False,14
+2056,BMW 7 Series 730Ld Eminence,Kochi,2015,29966,16.77,2993.0,261.49,5.0,43.6,False,False,False,False,True,False,10
+2060,Audi A4 2.0 TDI 177 Bhp Technology Edition,Bangalore,2014,24000,17.11,1968.0,174.33,5.0,25.0,False,False,False,False,False,False,11
+2073,Mini Cooper 5 DOOR D,Hyderabad,2017,2000,20.7,1496.0,113.98,5.0,34.0,False,False,False,False,False,False,8
+2083,BMW X3 xDrive20d Expedition,Bangalore,2015,65000,18.56,1995.0,190.0,5.0,29.0,False,False,False,False,True,False,10
+2089,BMW 6 Series 640d Coupe,Mumbai,2013,30000,9.52,2993.0,313.0,4.0,45.0,False,False,False,False,False,False,12
+2095,Mercedes-Benz SLC 43 AMG,Coimbatore,2019,2526,19.0,2996.0,362.07,2.0,83.96,False,True,False,False,False,False,6
+2097,Mercedes-Benz E-Class E 220 d,Hyderabad,2013,85000,16.1,1950.0,194.0,5.0,21.0,False,False,False,False,False,False,12
+2100,Porsche Cayenne Turbo S,Mumbai,2010,35000,11.9,4806.0,550.0,5.0,32.0,False,True,False,False,True,False,15
+2109,Toyota Fortuner 4x2 MT TRD Sportivo,Hyderabad,2015,19317,13.0,2982.0,168.7,7.0,24.5,False,False,True,False,False,False,10
+2111,Mercedes-Benz GLE 250d,Kochi,2017,25601,17.9,2143.0,201.15,5.0,56.73,False,False,False,False,False,False,8
+2114,Audi A4 35 TDI Premium,Hyderabad,2015,50000,17.11,1968.0,174.33,5.0,25.0,False,False,False,False,False,False,10
+2121,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,24465,19.27,2143.0,167.62,5.0,39.45,False,False,False,False,False,False,7
+2128,Audi Q7 3.0 TDI Quattro Technology,Hyderabad,2012,88000,12.07,2967.0,241.4,7.0,36.5,False,False,False,False,False,False,13
+2134,Toyota Fortuner 2.8 2WD AT,Pune,2017,29000,12.9,2755.0,174.5,7.0,31.0,False,False,False,False,False,False,8
+2139,Land Rover Range Rover Evoque 2.0 TD4 Pure,Kochi,2016,29022,15.68,1999.0,177.0,5.0,34.08,False,False,False,False,True,False,9
+2145,Ford Endeavour 2.2 Titanium AT 4X2,Hyderabad,2018,14000,12.62,2198.0,158.0,7.0,31.99,False,False,False,False,False,False,7
+2153,Mercedes-Benz New C-Class C 250 CDI Avantgarde,Mumbai,2017,14470,19.71,2143.0,201.15,5.0,38.5,False,False,False,False,False,False,8
+2161,Jaguar XF 2.2 Litre Luxury,Kochi,2016,13418,16.36,2179.0,187.7,5.0,33.63,False,False,False,False,False,False,9
+2165,Audi A6 2011-2015 2.0 TDI Premium Plus,Coimbatore,2014,66882,17.68,1968.0,174.33,5.0,25.02,False,False,False,False,False,False,11
+2178,Land Rover Discovery HSE Luxury 3.0 TD6,Mumbai,2017,35000,18.0,2993.0,255.0,7.0,41.6,False,False,False,False,False,False,8
+2182,Toyota Fortuner 2.8 4WD MT,Bangalore,2015,150386,14.24,2755.0,174.5,7.0,23.0,False,False,True,False,False,False,10
+2190,Mercedes-Benz E-Class E250 CDI Launch Edition,Kochi,2016,46936,13.0,2143.0,204.0,5.0,29.6,False,False,False,False,False,False,9
+2193,Volvo S60 D4 SUMMUM,Coimbatore,2016,42259,9.0,1984.0,181.0,5.0,24.36,False,False,False,False,False,False,9
+2199,Toyota Camry Hybrid,Delhi,2015,25000,19.16,2494.0,158.2,5.0,25.0,False,True,False,False,False,False,10
+2209,BMW 5 Series 2013-2017 520d M Sport,Pune,2018,7000,18.12,1995.0,190.0,5.0,46.0,False,False,False,False,False,False,7
+2218,Toyota Fortuner 4x2 Manual,Hyderabad,2015,73500,13.0,2982.0,168.5,7.0,22.0,False,False,True,False,False,False,10
+2233,Toyota Innova Crysta 2.8 ZX AT,Hyderabad,2017,35358,11.36,2755.0,171.5,7.0,22.99,False,False,False,False,False,False,8
+2240,Audi A4 2.0 TDI,Hyderabad,2014,60000,16.55,1968.0,147.51,5.0,24.0,False,False,False,False,False,False,11
+2243,Mercedes-Benz M-Class ML 250 CDI,Mumbai,2016,52000,15.26,2143.0,203.2,5.0,35.0,False,False,False,False,False,False,9
+2254,Mercedes-Benz M-Class ML 350 CDI Corporate,Coimbatore,2012,63888,14.0,2987.0,224.0,5.0,22.58,False,False,False,False,False,False,13
+2259,Hyundai Santa Fe 4WD AT,Bangalore,2015,59000,13.01,2199.0,194.3,7.0,21.0,False,False,False,False,False,False,10
+2263,Land Rover Range Rover 2.2L Prestige,Coimbatore,2014,64557,12.7,2179.0,187.7,5.0,29.93,False,False,False,False,True,False,11
+2270,Mini Cooper Countryman D High,Mumbai,2015,34000,23.8,1998.0,112.0,5.0,22.0,False,False,False,False,False,False,10
+2276,BMW X6 xDrive30d,Jaipur,2013,45306,11.2,2993.0,241.0,4.0,42.5,False,False,False,False,True,False,12
+2288,Audi A6 3.0 TDI quattro,Bangalore,2011,50000,16.77,2967.0,241.38,5.0,21.0,False,False,False,False,False,True,14
+2304,BMW X1 sDrive 20d Sportline,Delhi,2015,49000,17.05,1995.0,184.0,5.0,22.99,False,False,False,False,False,False,10
+2306,Land Rover Range Rover Sport 2005 2012 HSE,Hyderabad,2010,45000,14.7,2993.0,241.4,6.0,40.0,False,False,False,False,False,False,15
+2311,BMW X5 xDrive 30d,Coimbatore,2016,17738,15.3,2993.0,258.0,5.0,54.45,False,False,False,False,False,False,9
+2319,Mercedes-Benz E-Class E 350 d,Coimbatore,2019,9312,18.0,2987.0,258.0,5.0,78.8,False,False,False,False,False,False,6
+2328,BMW X5 xDrive 30d M Sport,Chennai,2017,6500000,15.97,2993.0,258.0,5.0,65.0,False,False,False,False,False,False,8
+2334,Toyota Fortuner 2.8 2WD AT,Ahmedabad,2016,88008,12.9,2755.0,174.5,7.0,22.5,False,False,False,False,True,False,9
+2341,Mercedes-Benz GLA Class 200 d Sport,Mumbai,2018,10000,17.9,2143.0,136.0,5.0,28.9,False,False,False,False,False,False,7
+2355,Mercedes-Benz GLA Class 200 Sport Edition,Delhi,2016,23000,13.7,1991.0,183.0,5.0,25.0,False,True,False,False,False,False,9
+2357,Mercedes-Benz CLA 200 Sport Edition,Delhi,2016,25000,15.04,1991.0,183.0,5.0,26.0,False,True,False,False,False,False,9
+2364,Mini Cooper Convertible S,Chennai,2012,17000,16.82,1998.0,189.08,4.0,22.0,False,True,False,False,True,False,13
+2370,Mini Cooper 3 DOOR S,Mumbai,2013,21000,17.44,1998.0,189.08,4.0,21.5,False,True,False,False,False,False,12
+2382,Mercedes-Benz M-Class ML 250 CDI,Coimbatore,2016,23218,15.26,2143.0,203.2,5.0,45.61,False,False,False,False,False,False,9
+2395,Ford Endeavour 2.2 Trend MT 4X4,Hyderabad,2016,107890,13.5,2198.0,157.7,7.0,20.5,False,False,True,False,False,False,9
+2401,Volvo XC90 2007-2015 D5 AWD,Kochi,2014,89230,11.1,2400.0,200.0,7.0,23.65,False,False,True,False,False,False,11
+2406,Toyota Fortuner 4x2 Manual,Jaipur,2015,59000,13.0,2982.0,168.5,7.0,23.0,False,False,True,False,False,False,10
+2418,Mercedes-Benz B Class B200 CDI,Coimbatore,2017,43812,15.0,2143.0,107.3,5.0,20.28,False,False,False,False,False,False,8
+2422,Jaguar XJ 3.0L Portfolio,Delhi,2016,12000,10.5,2993.0,271.23,4.0,79.0,False,False,False,False,False,False,9
+2429,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,23152,19.27,2143.0,167.62,5.0,39.22,False,False,False,False,False,False,7
+2432,Toyota Camry Hybrid,Chennai,2016,29277,19.16,2494.0,158.2,5.0,27.0,False,True,False,False,False,False,9
+2445,BMW 5 Series 520d Luxury Line,Ahmedabad,2013,55000,22.48,1995.0,190.0,5.0,21.75,False,False,False,False,False,False,12
+2446,Mercedes-Benz GLC 220d 4MATIC Sport,Mumbai,2017,25000,17.9,2143.0,170.0,5.0,45.0,False,False,False,False,False,False,8
+2455,Toyota Fortuner 2.8 2WD AT,Delhi,2017,40000,12.9,2755.0,174.5,7.0,30.0,False,False,False,False,False,False,8
+2470,BMW 3 Series 320d M Sport,Kochi,2017,23806,22.69,1995.0,190.0,5.0,33.66,False,False,False,False,False,False,8
+2474,Mercedes-Benz CLA 200 CDI Style,Coimbatore,2017,23106,17.9,2143.0,136.0,5.0,27.43,False,False,False,False,False,False,8
+2477,Jaguar XF 3.0 Litre S Premium Luxury,Kochi,2015,47759,14.74,2993.0,270.9,5.0,31.8,False,False,False,False,False,False,10
+2484,Audi A4 35 TDI Premium Sport,Chennai,2016,11000,17.11,1968.0,174.33,5.0,28.0,False,False,False,False,False,False,9
+2493,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Bangalore,2017,20149,19.27,2143.0,167.62,5.0,38.5,False,False,False,False,False,False,8
+2505,Audi Q7 3.0 TDI Quattro Premium Plus,Hyderabad,2012,79000,12.07,2967.0,241.4,7.0,39.0,False,False,False,False,False,False,13
+2506,Audi A4 35 TDI Premium,Coimbatore,2016,39644,17.11,1968.0,174.33,5.0,25.75,False,False,False,False,False,False,9
+2509,Mercedes-Benz E-Class E 220 d,Mumbai,2018,11000,16.1,1950.0,194.0,5.0,56.5,False,False,False,False,False,False,7
+2510,BMW 3 Series 320d Luxury Line,Mumbai,2014,18600,22.69,1995.0,190.0,5.0,21.0,False,False,False,False,True,False,11
+2515,BMW 6 Series Gran Coupe,Delhi,2013,21000,17.54,2993.0,313.0,4.0,44.0,False,False,False,False,True,False,12
+2523,BMW 5 Series 2013-2017 520d Luxury Line,Ahmedabad,2016,44001,18.12,1995.0,190.0,5.0,34.51,False,False,False,False,False,False,9
+2528,Land Rover Discovery SE 3.0 TD6,Delhi,2016,59000,18.0,2993.0,255.0,7.0,36.75,False,False,False,False,False,False,9
+2532,Audi Q7 3.0 TDI quattro,Hyderabad,2011,98000,12.07,2967.0,241.4,7.0,22.0,False,False,False,False,False,False,14
+2533,Mercedes-Benz CLA 200 CDI Sport,Coimbatore,2017,20969,17.9,2143.0,136.0,5.0,27.87,False,False,False,False,False,False,8
+2537,Audi Q7 35 TDI Quattro Technology,Coimbatore,2016,28733,12.07,2967.0,241.4,7.0,53.11,False,False,False,False,True,False,9
+2541,Mercedes-Benz E-Class 2015-2017 E350 CDI Avantgrade,Kochi,2018,21603,13.0,2987.0,265.0,5.0,70.15,False,False,False,False,False,False,7
+2547,BMW X6 xDrive 40d M Sport,Chennai,2016,25000,15.87,2993.0,308.43,5.0,60.0,False,False,False,False,False,False,9
+2553,Audi A4 2.0 TDI Premium Sport Limited Edition,Coimbatore,2015,21979,17.11,1968.0,174.33,5.0,23.45,False,False,False,False,False,False,10
+2563,Jeep Compass 2.0 Limited 4X4,Coimbatore,2018,48188,16.3,1956.0,170.0,5.0,21.69,False,False,True,False,False,False,7
+2569,Toyota Innova Crysta 2.8 ZX AT,Coimbatore,2017,65367,11.36,2755.0,171.5,7.0,20.14,False,False,False,False,False,False,8
+2586,Audi A4 2.0 TDI 177 Bhp Premium Plus,Coimbatore,2014,57773,17.11,1968.0,174.33,5.0,20.04,False,False,False,False,True,False,11
+2593,Audi Q7 35 TDI Quattro Technology,Bangalore,2015,21000,12.07,2967.0,241.4,7.0,52.5,False,False,False,False,True,False,10
+2604,Mini Cooper Convertible S,Mumbai,2016,15000,16.82,1998.0,189.08,4.0,35.0,False,True,False,False,False,False,9
+2609,BMW 5 Series 2013-2017 520d Luxury Line,Chennai,2016,30000,18.12,1995.0,190.0,5.0,31.5,False,False,False,False,True,False,9
+2652,Audi Q5 2.0 TDI Technology,Hyderabad,2014,50000,14.16,1968.0,174.3,5.0,35.0,False,False,False,False,False,False,11
+2659,Porsche Panamera Diesel,Kolkata,2015,25100,17.85,2967.0,300.0,4.0,75.0,False,False,False,False,False,False,10
+2660,Mercedes-Benz CLA 200 Sport Edition,Kochi,2017,24733,15.04,1991.0,183.0,5.0,27.15,False,True,False,False,False,False,8
+2669,Ford Endeavour 3.2 Trend AT 4X4,Coimbatore,2018,51530,10.91,3198.0,197.2,7.0,30.27,False,False,False,False,False,False,7
+2687,Mercedes-Benz E-Class 2015-2017 E250 Edition E,Ahmedabad,2016,39500,15.0,2143.0,204.0,5.0,29.5,False,False,False,False,False,False,9
+2699,Audi Q3 35 TDI Quattro Premium Plus,Bangalore,2015,51000,15.17,1968.0,181.0,5.0,27.5,False,False,False,False,False,False,10
+2706,Porsche Panamera Diesel 250hp,Kochi,2014,60033,18.18,2967.0,250.0,4.0,51.52,False,False,False,False,False,False,11
+2710,Jaguar XF 2.2 Litre Luxury,Pune,2014,55001,16.36,2179.0,187.7,5.0,31.0,False,False,False,False,False,False,11
+2711,Mini Cooper Convertible S,Kochi,2017,20469,16.82,1998.0,189.08,4.0,35.98,False,True,False,False,False,False,8
+2757,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,20604,19.27,2143.0,167.62,5.0,39.62,False,False,False,False,False,False,7
+2767,Mercedes-Benz GLE 350d,Coimbatore,2018,30706,11.57,2987.0,254.79,5.0,59.29,False,False,False,False,False,False,7
+2787,BMW 7 Series 730Ld Sedan,Coimbatore,2013,73525,16.46,2993.0,258.0,5.0,34.54,False,False,False,False,False,False,12
+2795,BMW X5 X5 M,Pune,2015,69002,15.97,2993.0,258.0,5.0,50.0,False,False,False,False,False,False,10
+2808,Mercedes-Benz GLE 350d,Mumbai,2017,19863,11.57,2987.0,254.79,5.0,64.95,False,False,False,False,False,False,8
+2822,BMW 3 Series 320d Sport Line,Pune,2018,24000,18.88,1995.0,184.0,5.0,28.0,False,False,False,False,False,False,7
+2833,BMW X3 xDrive20d xLine,Kochi,2017,36935,18.56,1995.0,190.0,5.0,32.64,False,False,False,False,False,False,8
+2835,BMW 5 Series 2013-2017 520d Luxury Line,Bangalore,2015,14000,18.12,1995.0,190.0,5.0,35.0,False,False,False,False,False,False,10
+2838,Audi Q7 35 TDI Quattro Premium Plus,Kochi,2016,72132,12.07,2967.0,241.4,7.0,39.0,False,False,False,False,True,False,9
+2855,Toyota Fortuner 2.8 2WD AT,Kochi,2019,21719,12.9,2755.0,174.5,7.0,33.13,False,False,False,False,False,False,6
+2863,Audi A6 2011-2015 2.0 TDI,Coimbatore,2013,70998,17.68,1968.0,174.33,5.0,20.57,False,False,False,False,False,False,12
+2876,Audi A6 35 TDI Matrix,Delhi,2014,56000,18.53,1968.0,187.74,5.0,24.0,False,False,False,False,False,False,11
+2879,Audi A6 35 TDI Matrix,Hyderabad,2014,62000,18.53,1968.0,187.74,5.0,25.0,False,False,False,False,False,False,11
+2896,Porsche Panamera Diesel,Delhi,2013,48000,17.85,2967.0,300.0,4.0,50.5,False,False,False,False,True,False,12
+2898,Audi A4 2.0 TDI Multitronic,Hyderabad,2014,53000,16.55,1968.0,140.0,5.0,20.5,False,False,False,False,False,False,11
+2907,Jaguar XJ 3.0L Portfolio,Hyderabad,2015,26000,14.47,2993.0,301.73,5.0,75.0,False,False,False,False,False,False,10
+2916,Jeep Compass 2.0 Limited 4X4,Coimbatore,2019,6261,16.3,1956.0,170.0,5.0,23.91,False,False,True,False,False,False,6
+2924,Land Rover Range Rover HSE Dynamic,Kochi,2018,41661,12.7,2179.0,187.7,5.0,44.83,False,False,False,False,False,False,7
+2928,Jaguar XF 2.2 Litre Luxury,Chennai,2014,43000,16.36,2179.0,187.7,5.0,26.5,False,False,False,False,True,False,11
+2929,Audi A6 2.7 TDI,Bangalore,2013,90000,12.4,2698.0,179.5,5.0,22.5,False,False,False,False,True,False,12
+2948,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,10714,19.27,2143.0,167.62,5.0,39.51,False,False,False,False,False,False,7
+2963,BMW 3 Series 320d Luxury Line,Kochi,2017,55389,18.88,1995.0,184.0,5.0,28.45,False,False,False,False,False,False,8
+2978,Porsche Panamera 2010 2013 4S,Coimbatore,2010,42400,8.0,4806.0,394.3,4.0,42.91,False,True,False,False,False,True,15
+3014,BMW 5 Series 2013-2017 530d M Sport,Coimbatore,2016,19254,14.69,2993.0,258.0,5.0,47.7,False,False,False,False,False,False,9
+3017,Mini Cooper S Carbon Edition,Kolkata,2018,2971,13.6,1598.0,181.0,4.0,39.75,False,True,False,False,False,False,7
+3022,Toyota Fortuner 3.0 Diesel,Hyderabad,2016,99593,11.5,2982.0,171.0,7.0,23.5,False,False,True,False,False,False,9
+3028,Ford Endeavour 3.2 Titanium AT 4X4,Coimbatore,2017,61108,10.91,3198.0,197.0,7.0,28.88,False,False,False,False,False,False,8
+3038,BMW 3 Series 320d,Hyderabad,2013,48183,13.2,1995.0,170.0,5.0,20.99,False,False,False,False,False,False,12
+3043,Land Rover Discovery Sport TD4 HSE,Coimbatore,2019,25899,12.63,2179.0,147.5,5.0,55.7,False,False,False,False,False,False,6
+3045,Mercedes-Benz New C-Class C 220 CDI Style,Hyderabad,2017,11200,19.27,2143.0,167.62,5.0,37.5,False,False,False,False,False,False,8
+3051,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Delhi,2016,16000,11.3,2987.0,254.8,7.0,56.0,False,False,False,False,False,False,9
+3062,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2014,51076,12.07,2967.0,241.4,7.0,34.88,False,False,False,False,False,False,11
+3066,Audi A6 2011-2015 3.0 TDI Quattro Premium Plus,Pune,2012,50001,14.57,2967.0,241.38,5.0,29.0,False,False,False,False,False,False,13
+3079,Ford Endeavour 3.2 Titanium AT 4X4,Mumbai,2016,29000,10.91,3198.0,197.0,7.0,29.8,False,False,False,False,False,False,9
+3085,Audi Q5 2.0 TDI Premium Plus,Chennai,2013,44000,14.16,1968.0,174.3,5.0,32.5,False,False,False,False,False,False,12
+3093,Audi A7 2011-2015 Sportback,Kolkata,2012,24720,0.0,2967.0,241.4,5.0,28.0,False,False,False,False,True,False,13
+3096,Mercedes-Benz E-Class E250 CDI Avantgrade,Kochi,2015,41057,13.0,2143.0,201.1,5.0,24.63,False,False,False,False,False,False,10
+3115,Ford Endeavour 3.2 Trend AT 4X4,Jaipur,2016,90000,10.91,3198.0,197.2,7.0,26.0,False,False,False,False,False,False,9
+3122,BMW X1 sDrive 20d Sportline,Hyderabad,2014,45000,17.05,1995.0,184.0,5.0,21.5,False,False,False,False,False,False,11
+3137,Mercedes-Benz E-Class E250 CDI Launch Edition,Chennai,2014,81000,13.0,2143.0,204.0,5.0,22.75,False,False,False,False,False,False,11
+3147,Jaguar XF Diesel,Coimbatore,2016,55115,14.74,2993.0,270.9,5.0,36.15,False,False,False,False,False,False,9
+3148,Jaguar XF 2.2 Litre Luxury,Kolkata,2014,18000,16.36,2179.0,187.7,5.0,25.7,False,False,False,False,False,False,11
+3151,Audi A4 2.0 TDI 177 Bhp Premium Plus,Coimbatore,2015,32205,17.11,1968.0,174.33,5.0,25.31,False,False,False,False,False,False,10
+3158,Audi A4 30 TFSI Premium Plus,Kochi,2017,61221,17.84,1395.0,147.51,5.0,21.73,False,True,False,False,False,False,8
+3161,Mini Cooper 5 DOOR D,Kochi,2019,14857,20.7,1496.0,113.98,5.0,31.55,False,False,False,False,False,False,6
+3163,Ford Endeavour Titanium 4X2,Coimbatore,2019,14648,12.62,2198.0,158.0,7.0,27.36,False,False,True,False,False,False,6
+3169,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Delhi,2015,15000,19.27,2143.0,170.0,5.0,28.5,False,False,False,False,False,False,10
+3175,Jaguar XF Diesel,Coimbatore,2014,82536,14.74,2993.0,270.9,5.0,28.63,False,False,False,False,False,False,11
+3188,Toyota Fortuner 4x2 AT,Kochi,2015,47566,12.55,2982.0,168.5,7.0,20.25,False,False,False,False,False,False,10
+3194,Mini Cooper 3 DOOR D,Kochi,2015,27641,20.7,1496.0,113.98,4.0,24.77,False,False,False,False,True,False,10
+3196,Ford Endeavour 3.2 Titanium AT 4X4,Chennai,2019,9000,10.91,3198.0,197.0,7.0,35.5,False,False,False,False,False,False,6
+3199,BMW 7 Series 730Ld Design Pure Excellence CBU,Kolkata,2012,41100,16.77,2993.0,261.49,5.0,26.5,False,False,False,False,False,False,13
+3210,Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016,22769,0.0,2987.0,165.0,5.0,49.22,False,False,False,False,False,False,9
+3218,Land Rover Range Rover 2.2L Dynamic,Pune,2015,52000,12.7,2179.0,187.7,5.0,39.75,False,False,False,False,False,False,10
+3233,Mercedes-Benz E-Class E250 CDI Avantgrade,Kochi,2015,59630,13.0,2143.0,201.1,5.0,23.41,False,False,False,False,False,False,10
+3242,Land Rover Range Rover Vogue SE 4.4 SDV8,Bangalore,2012,63000,11.49,4367.0,335.3,5.0,65.0,False,False,False,False,True,False,13
+3259,Audi Q3 30 TDI Premium FWD,Mumbai,2017,31000,18.51,1968.0,147.51,5.0,27.0,False,False,False,False,False,False,8
+3266,Mercedes-Benz E-Class E400 Cabriolet,Kolkata,2015,7501,10.0,2996.0,333.0,4.0,48.0,False,True,False,False,False,False,10
+3268,Mercedes-Benz GLE 350d,Coimbatore,2018,29277,11.57,2987.0,254.79,5.0,59.65,False,False,False,False,False,False,7
+3277,Mini Cooper 3 DOOR D,Kochi,2016,32298,20.7,1496.0,113.98,4.0,23.8,False,False,False,False,False,False,9
+3289,Audi Q3 35 TDI Quattro Premium Plus,Bangalore,2015,38000,15.73,1968.0,174.33,5.0,29.0,False,False,False,False,False,False,10
+3324,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,29836,17.9,2143.0,136.0,5.0,25.75,False,False,False,False,False,False,6
+3341,BMW 7 Series 2007-2012 750Li,Kochi,2010,50161,8.77,4395.0,402.0,5.0,25.93,False,True,False,False,False,False,15
+3343,Toyota Fortuner 4x4 AT,Coimbatore,2017,68319,12.55,2982.0,168.5,7.0,25.12,False,False,False,False,False,False,8
+3382,Mercedes-Benz R-Class R350 CDI 4MATIC,Hyderabad,2010,46000,11.8,2987.0,261.0,7.0,28.0,False,False,False,False,False,False,15
+3390,BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater,Mumbai,2015,29500,15.97,2993.0,258.0,7.0,43.0,False,False,False,False,False,False,10
+3398,Audi A6 2011-2015 35 TDI Technology,Mumbai,2015,42000,17.68,1968.0,174.33,5.0,24.25,False,False,False,False,False,False,10
+3410,Land Rover Freelander 2 HSE SD4,Ahmedabad,2012,60000,12.35,2179.0,187.74,5.0,23.5,False,False,False,False,True,False,13
+3434,Audi A4 2.0 TDI 177 Bhp Premium Plus,Bangalore,2014,40000,17.11,1968.0,174.33,5.0,22.5,False,False,False,False,False,False,11
+3444,Mercedes-Benz M-Class ML 250 CDI,Kolkata,2015,58589,15.26,2143.0,203.2,5.0,27.75,False,False,False,False,False,False,10
+3446,Ford Endeavour 2.2 Trend AT 4X2,Pune,2016,75000,12.62,2198.0,158.0,7.0,24.0,False,False,False,False,False,False,9
+3453,BMW 5 Series 2003-2012 530d,Coimbatore,2016,18090,16.2,2993.0,258.0,5.0,45.73,False,False,False,False,False,False,9
+3488,Audi Q7 3.0 TDI quattro,Coimbatore,2012,91743,12.07,2967.0,241.4,7.0,28.55,False,False,False,False,False,False,13
+3489,Porsche Panamera Diesel,Bangalore,2013,19828,17.85,2967.0,300.0,4.0,75.0,False,False,False,False,True,False,12
+3500,BMW 5 Series 520d Luxury Line,Delhi,2013,65000,22.48,1995.0,190.0,5.0,21.26,False,False,False,False,False,False,12
+3521,Mercedes-Benz S Class 2005 2013 S 350 CDI,Bangalore,2009,98000,13.5,2987.0,282.0,5.0,25.0,False,False,False,False,True,False,16
+3523,Jaguar XJ 3.0L Premium Luxury,Hyderabad,2012,50000,12.9,2993.0,271.23,4.0,45.0,False,False,False,False,False,False,13
+3535,Audi A4 35 TDI Premium,Coimbatore,2016,39237,17.11,1968.0,174.33,5.0,25.64,False,False,False,False,False,False,9
+3540,Land Rover Discovery Sport SD4 HSE Luxury 7S,Hyderabad,2016,62000,12.51,2179.0,187.7,7.0,44.5,False,False,False,False,False,False,9
+3555,Toyota Innova Crysta 2.4 VX MT,Coimbatore,2019,33598,13.68,2393.0,147.8,7.0,22.2,False,False,True,False,False,False,6
+3567,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,13414,17.9,2143.0,136.0,5.0,30.77,False,False,False,False,False,False,6
+3572,Audi A6 35 TDI Matrix,Coimbatore,2017,36824,18.53,1968.0,187.74,5.0,39.84,False,False,False,False,False,False,8
+3580,Mercedes-Benz CLS-Class 2006-2010 350 CDI,Hyderabad,2010,29000,9.9,3498.0,271.72,4.0,32.0,False,False,False,False,False,False,15
+3581,BMW 3 Series Luxury Line,Ahmedabad,2016,27000,21.76,1995.0,190.0,5.0,35.0,False,False,False,False,False,False,9
+3590,BMW 5 Series 2013-2017 530d M Sport,Kochi,2015,65266,14.69,2993.0,258.0,5.0,31.75,False,False,False,False,False,False,10
+3608,Audi Q5 3.0 TDI Quattro Technology,Coimbatore,2017,43827,13.22,2967.0,241.4,5.0,36.83,False,False,False,False,False,False,8
+3622,Hyundai Santa Fe 4WD AT,Coimbatore,2016,28881,13.01,2199.0,194.3,7.0,21.37,False,False,False,False,False,False,9
+3632,BMW X6 xDrive30d,Delhi,2011,59000,11.2,2993.0,241.0,4.0,21.9,False,False,False,False,False,False,14
+3633,BMW 5 Series 2013-2017 520d Luxury Line,Coimbatore,2016,76467,18.12,1995.0,190.0,5.0,30.45,False,False,False,False,False,False,9
+3661,Mercedes-Benz E-Class E250 CDI Avantgrade,Coimbatore,2016,39753,13.0,2143.0,201.1,5.0,35.28,False,False,False,False,False,False,9
+3679,Mercedes-Benz New C-Class C 220 CDI Style,Hyderabad,2017,10000,19.27,2143.0,167.62,5.0,36.0,False,False,False,False,False,False,8
+3705,Mercedes-Benz GLC 220d 4MATIC Style,Coimbatore,2019,29311,17.9,2143.0,170.0,5.0,50.97,False,False,False,False,False,False,6
+3706,BMW 3 Series Luxury Line,Mumbai,2016,31000,21.76,1995.0,190.0,5.0,29.95,False,False,False,False,False,False,9
+3712,Mercedes-Benz E-Class E250 CDI Launch Edition,Coimbatore,2015,73187,13.0,2143.0,204.0,5.0,30.72,False,False,False,False,False,False,10
+3730,Audi A4 35 TDI Premium,Bangalore,2015,58970,17.11,1968.0,174.33,5.0,23.75,False,False,False,False,False,False,10
+3741,Mercedes-Benz GLA Class 200 CDI,Hyderabad,2014,30000,17.9,2143.0,136.0,5.0,26.0,False,False,False,False,False,False,11
+3752,Land Rover Range Rover Sport HSE,Kochi,2015,38467,12.65,2993.0,255.0,5.0,70.66,False,False,False,False,False,False,10
+3794,Mercedes-Benz E-Class 2009-2013 E250 CDI Elegance,Hyderabad,2014,53000,14.21,2143.0,203.0,5.0,29.0,False,False,False,False,True,False,11
+3795,Audi Q5 2.0 TDI Premium Plus,Coimbatore,2014,87652,14.16,1968.0,174.3,5.0,25.71,False,False,False,False,True,False,11
+3797,BMW 3 Series 320d Prestige,Mumbai,2015,56000,18.88,1995.0,184.0,5.0,22.75,False,False,False,False,False,False,10
+3799,Mercedes-Benz E-Class 2009-2013 E250 CDI Blue Efficiency,Delhi,2014,30000,14.21,2143.0,203.0,5.0,26.0,False,False,False,False,False,False,11
+3814,Jaguar XF 3.0 Litre S Premium Luxury,Mumbai,2014,30900,14.74,2993.0,270.9,5.0,29.5,False,False,False,False,False,False,11
+3836,Audi A6 35 TFSI Matrix,Delhi,2018,22000,15.26,1798.0,187.74,5.0,41.5,False,True,False,False,False,False,7
+3867,Mercedes-Benz CLA 200 CDI Sport,Kochi,2016,32345,17.9,2143.0,136.0,5.0,24.51,False,False,False,False,False,False,9
+3911,Skoda Superb Style 1.8 TSI AT,Mumbai,2016,14500,14.67,1798.0,177.46,5.0,20.75,False,True,False,False,False,False,9
+3918,Toyota Fortuner 4x2 AT,Hyderabad,2016,55547,12.55,2982.0,168.5,7.0,24.99,False,False,False,False,False,False,9
+3933,Volvo XC60 D5,Hyderabad,2015,100000,13.5,2400.0,215.0,5.0,32.5,False,False,False,False,False,False,10
+3975,Mercedes-Benz E-Class 2009-2013 E250 CDI Elegance,Pune,2016,45000,14.21,2143.0,203.0,5.0,34.0,False,False,False,False,False,False,9
+3978,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,27467,19.27,2143.0,167.62,5.0,39.05,False,False,False,False,False,False,7
+3994,Audi Q7 35 TDI Quattro Technology,Coimbatore,2016,32545,12.07,2967.0,241.4,7.0,48.76,False,False,False,False,False,False,9
+4003,Jaguar XF 2.2 Litre Luxury,Mumbai,2018,3000,16.36,2179.0,187.7,5.0,52.5,False,False,False,False,False,False,7
+4017,BMW X3 xDrive20d,Bangalore,2012,52000,16.09,1995.0,184.0,5.0,24.0,False,False,False,False,False,False,13
+4028,Mercedes-Benz CLA 200 CGI Sport,Delhi,2016,40000,15.04,1991.0,183.0,5.0,24.5,False,True,False,False,False,False,9
+4031,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Coimbatore,2016,43252,13.0,2143.0,204.0,5.0,34.18,False,False,False,False,False,False,9
+4052,BMW X1 sDrive20d,Bangalore,2016,45000,17.05,1995.0,184.0,5.0,28.5,False,False,False,False,False,False,9
+4055,Mercedes-Benz E-Class E350 CDI,Delhi,2014,68000,13.0,2987.0,261.5,5.0,27.5,False,False,False,False,False,False,11
+4057,Audi Q3 2012-2015 2.0 TDI Quattro Premium Plus,Jaipur,2014,65000,15.73,1968.0,174.33,5.0,21.5,False,False,False,False,True,False,11
+4058,Land Rover Discovery Sport TD4 HSE,Delhi,2016,77000,12.63,2179.0,147.5,5.0,35.0,False,False,False,False,False,False,9
+4061,Audi RS5 Coupe,Mumbai,2013,23312,11.05,2894.0,444.0,4.0,40.5,False,True,False,False,False,False,12
+4063,Audi Q5 2.0 TDI Premium Plus,Coimbatore,2015,60146,14.16,1968.0,174.3,5.0,29.64,False,False,False,False,False,False,10
+4067,Jaguar XF 2.2 Litre Luxury,Hyderabad,2015,50000,16.36,2179.0,187.7,5.0,38.0,False,False,False,False,False,False,10
+4069,BMW 5 Series 520d Luxury Line,Coimbatore,2014,60280,22.48,1995.0,190.0,5.0,22.45,False,False,False,False,False,False,11
+4070,Mercedes-Benz B Class B200 CDI,Coimbatore,2017,48161,15.0,2143.0,107.3,5.0,20.87,False,False,False,False,False,False,8
+4079,Land Rover Range Rover 3.0 Diesel LWB Vogue,Hyderabad,2017,25000,13.33,2993.0,255.0,5.0,160.0,False,False,False,False,False,False,8
+4095,Audi A4 3.0 TDI Quattro,Coimbatore,2015,35463,14.94,2967.0,241.4,5.0,25.02,False,False,False,False,False,False,10
+4096,Toyota Camry Hybrid 2.5,Coimbatore,2017,23249,19.16,2487.0,175.67,5.0,26.11,False,True,False,False,False,False,8
+4101,BMW X5 xDrive 30d M Sport,Chennai,2016,45000,15.97,2993.0,258.0,5.0,57.0,False,False,False,False,False,False,9
+4105,Audi Q5 2.0 TDI,Delhi,2013,71000,14.16,1968.0,174.3,5.0,21.5,False,False,False,False,False,False,12
+4108,Mitsubishi Pajero Sport 4X4 AT,Coimbatore,2019,11827,13.5,2477.0,175.56,6.0,27.11,False,False,False,False,False,False,6
+4117,Audi Q5 30 TDI quattro Premium Plus,Bangalore,2015,63000,14.16,1968.0,174.3,5.0,36.0,False,False,False,False,False,False,10
+4120,Mitsubishi Pajero Sport 4X4 AT,Bangalore,2018,8900,13.5,2477.0,175.56,6.0,26.5,False,False,False,False,False,False,7
+4131,Toyota Fortuner 2.8 2WD MT,Coimbatore,2019,56251,14.24,2755.0,174.5,7.0,35.82,False,False,True,False,False,False,6
+4139,Mercedes-Benz E-Class 2015-2017 E250 Edition E,Coimbatore,2017,43477,15.0,2143.0,204.0,5.0,38.15,False,False,False,False,False,False,8
+4163,Toyota Innova Crysta 2.8 ZX AT,Bangalore,2017,53841,11.36,2755.0,171.5,7.0,20.5,False,False,False,False,False,False,8
+4166,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Chennai,2015,45000,11.3,2987.0,254.8,7.0,56.0,False,False,False,False,False,False,10
+4185,Porsche Panamera Diesel,Kochi,2015,54996,17.85,2967.0,300.0,4.0,60.95,False,False,False,False,False,False,10
+4191,Audi Q3 35 TDI Quattro Premium,Chennai,2015,28000,15.73,1968.0,174.33,5.0,23.75,False,False,False,False,False,False,10
+4204,BMW 7 Series 730Ld Sedan,Chennai,2010,58000,16.46,2993.0,258.0,5.0,31.0,False,False,False,False,False,False,15
+4210,Audi Q5 2.0 TDI Premium Plus,Bangalore,2014,53900,14.16,1968.0,174.3,5.0,29.0,False,False,False,False,False,False,11
+4222,Mercedes-Benz E-Class 2009-2013 E250 CDI Avantgarde,Kolkata,2014,34233,14.21,2143.0,203.0,5.0,22.5,False,False,False,False,False,False,11
+4223,BMW X6 xDrive30d,Coimbatore,2014,39626,11.2,2993.0,241.0,4.0,40.66,False,False,False,False,False,False,11
+4227,Ford Endeavour 3.2 Trend AT 4X4,Chennai,2016,43000,10.91,3198.0,197.2,7.0,26.5,False,False,False,False,False,False,9
+4233,Audi Q3 30 TDI Premium FWD,Coimbatore,2018,22060,18.51,1968.0,147.51,5.0,32.73,False,False,False,False,False,False,7
+4234,Mercedes-Benz M-Class ML 350 4Matic,Chennai,2012,63000,0.0,2987.0,165.0,5.0,26.0,False,False,False,False,False,False,13
+4236,Audi A4 35 TDI Premium Plus,Kochi,2015,13506,18.25,1968.0,187.74,5.0,21.66,False,False,False,False,False,False,10
+4251,Audi Q5 3.0 TDI Quattro,Bangalore,2015,63000,13.22,2967.0,241.4,5.0,34.5,False,False,False,False,False,False,10
+4282,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2014,72469,12.07,2967.0,241.4,7.0,32.52,False,False,False,False,False,False,11
+4321,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Coimbatore,2016,65405,13.0,2143.0,204.0,5.0,32.73,False,False,False,False,False,False,9
+4322,Toyota Fortuner 4x2 AT TRD Sportivo,Delhi,2015,36000,12.55,2982.0,168.7,7.0,21.5,False,False,False,False,True,False,10
+4327,BMW X1 xDrive 20d M Sport,Kolkata,2017,27001,20.68,1995.0,190.0,5.0,29.0,False,False,False,False,False,False,8
+4345,Audi Q7 35 TDI Quattro Technology,Coimbatore,2016,45180,12.07,2967.0,241.4,7.0,50.22,False,False,False,False,False,False,9
+4349,Mercedes-Benz GLA Class 200 CDI SPORT,Delhi,2015,27000,17.9,2143.0,136.0,5.0,23.0,False,False,False,False,False,False,10
+4350,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,31271,13.68,2393.0,147.8,8.0,21.42,False,False,True,False,False,False,6
+4357,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Delhi,2016,20000,19.27,2143.0,170.0,5.0,33.0,False,False,False,False,False,False,9
+4360,BMW 6 Series Gran Coupe,Kochi,2018,20004,17.54,2993.0,313.0,4.0,68.94,False,False,False,False,False,False,7
+4375,Jaguar XF Diesel,Coimbatore,2012,94521,14.74,2993.0,270.9,5.0,23.19,False,False,False,False,False,False,13
+4377,Porsche Cayenne Diesel,Coimbatore,2015,60395,16.12,2967.0,245.0,5.0,45.82,False,False,False,False,False,False,10
+4382,Mercedes-Benz New C-Class 220 CDI MT,Chennai,2015,26000,15.8,2148.0,170.0,5.0,26.0,False,False,True,False,False,False,10
+4387,BMW 7 Series 730Ld,Chennai,2014,35000,16.46,2993.0,258.0,5.0,52.0,False,False,False,False,False,False,11
+4388,Audi Q7 4.2 TDI Quattro Technology,Bangalore,2015,50000,11.33,4134.0,335.2,7.0,48.0,False,False,False,False,False,False,10
+4389,BMW X5 xDrive 30d,Hyderabad,2011,124652,11.7,2993.0,245.0,5.0,21.99,False,False,False,False,False,False,14
+4404,Audi A4 35 TDI Premium,Hyderabad,2015,60000,17.11,1968.0,174.33,5.0,25.0,False,False,False,False,False,False,10
+4412,Mercedes-Benz M-Class ML 350 4Matic,Coimbatore,2016,27833,0.0,2987.0,165.0,5.0,49.24,False,False,False,False,False,False,9
+4416,BMW 3 Series GT 320d Luxury Line,Hyderabad,2015,36255,19.59,1995.0,184.0,5.0,33.0,False,False,False,False,False,False,10
+4417,BMW X5 xDrive 30d,Chennai,2011,58000,11.7,2993.0,245.0,5.0,27.0,False,False,False,False,True,False,14
+4423,Mercedes-Benz New C-Class C220 CDI Executive Edition,Kochi,2019,17320,15.8,2148.0,170.0,5.0,37.99,False,False,False,False,False,False,6
+4441,Audi Q7 3.0 TDI Quattro Technology,Hyderabad,2014,60000,12.07,2967.0,241.4,7.0,45.0,False,False,False,False,False,False,11
+4451,Ford Mustang V8,Kochi,2018,21290,13.0,4951.0,395.0,4.0,56.8,False,True,False,False,False,False,7
+4486,Audi Q7 3.0 TDI Quattro Technology,Coimbatore,2014,102865,12.07,2967.0,241.4,7.0,30.5,False,False,False,False,False,False,11
+4497,Volvo XC90 2007-2015 D5 AT AWD,Kochi,2014,102001,11.1,2400.0,200.0,7.0,23.58,False,False,False,False,False,False,11
+4502,Audi Q7 3.0 TDI Quattro Premium Plus,Hyderabad,2015,50000,12.07,2967.0,241.4,7.0,47.5,False,False,False,False,False,False,10
+4513,Jaguar XF 2.2 Litre Executive,Bangalore,2015,19000,16.36,2179.0,187.7,5.0,38.0,False,False,False,False,True,False,10
+4527,Mercedes-Benz GLE 350d,Chennai,2016,29000,11.57,2987.0,254.79,5.0,65.0,False,False,False,False,False,False,9
+4530,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Pune,2013,100000,12.0,2987.0,224.0,7.0,32.0,False,False,False,False,False,False,12
+4545,Audi Q5 30 TDI quattro Premium Plus,Coimbatore,2016,47293,14.16,1968.0,174.3,5.0,38.72,False,False,False,False,False,False,9
+4554,BMW 3 Series Luxury Line,Pune,2016,70000,21.76,1995.0,190.0,5.0,27.0,False,False,False,False,True,False,9
+4555,Mercedes-Benz New C-Class C 220 CDI BE Avantgare,Bangalore,2013,25000,14.84,2143.0,167.62,5.0,21.0,False,False,False,False,True,False,12
+4558,BMW 3 Series 320d GT Luxury Line,Mumbai,2017,8000,19.59,1995.0,187.74,5.0,33.75,False,False,False,False,False,False,8
+4566,Jaguar XF 2.2 Litre Luxury,Kochi,2015,27001,16.36,2179.0,187.7,5.0,26.52,False,False,False,False,False,False,10
+4579,Mercedes-Benz E-Class 2009-2013 E250 CDI Elegance,Pune,2014,100000,14.21,2143.0,203.0,5.0,25.0,False,False,False,False,False,False,11
+4591,Audi A4 35 TDI Technology Edition,Kochi,2019,38163,17.11,1968.0,174.33,5.0,32.91,False,False,False,False,False,False,6
+4595,Audi Q3 35 TDI Quattro Premium Plus,Coimbatore,2017,42366,15.73,1968.0,174.33,5.0,31.93,False,False,False,False,False,False,8
+4601,BMW X1 sDrive 20d xLine,Coimbatore,2019,15456,20.68,1995.0,190.0,5.0,36.64,False,False,False,False,False,False,6
+4614,BMW X5 X5 M,Chennai,2017,15000,15.97,2993.0,258.0,5.0,70.0,False,False,False,False,False,False,8
+4615,Mercedes-Benz New C-Class C 220 CDI Celebration Edition,Kolkata,2016,34000,11.78,2143.0,167.62,5.0,25.5,False,False,False,False,False,False,9
+4618,BMW 5 Series 525d Sedan,Hyderabad,2013,93000,16.73,2993.0,218.0,5.0,26.5,False,False,False,False,False,False,12
+4622,Audi A4 2.0 TDI Multitronic,Ahmedabad,2015,13000,16.55,1968.0,140.0,5.0,23.0,False,False,False,False,False,False,10
+4627,BMW 6 Series 650i Coupe,Kochi,2010,65329,7.94,4395.0,450.0,4.0,20.72,False,True,False,False,False,False,15
+4643,Toyota Fortuner 4x2 AT,Pune,2015,36000,12.55,2982.0,168.5,7.0,22.0,False,False,False,False,False,False,10
+4648,Jaguar XF 2.2 Litre Luxury,Pune,2013,46000,16.36,2179.0,187.7,5.0,24.0,False,False,False,False,True,False,12
+4657,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Delhi,2015,55000,12.0,2987.0,224.0,7.0,52.0,False,False,False,False,False,False,10
+4661,Mercedes-Benz GLA Class 200 CDI SPORT,Kolkata,2015,35000,17.9,2143.0,136.0,5.0,20.99,False,False,False,False,False,False,10
+4676,Audi A4 35 TDI Technology Edition,Hyderabad,2015,30000,17.11,1968.0,174.33,5.0,27.0,False,False,False,False,False,False,10
+4689,Toyota Fortuner 2.8 2WD MT,Coimbatore,2017,72668,14.24,2755.0,174.5,7.0,28.85,False,False,True,False,False,False,8
+4691,Mercedes-Benz SLK-Class 55 AMG,Bangalore,2014,3000,12.0,5461.0,421.0,2.0,90.0,False,True,False,False,True,False,11
+4699,Jaguar XF Aero Sport Edition,Delhi,2012,16000,16.36,2179.0,187.7,5.0,32.0,False,False,False,False,False,False,13
+4701,Land Rover Freelander 2 SE,Pune,2014,85000,12.39,2179.0,147.51,5.0,23.0,False,False,False,False,True,False,11
+4704,Mercedes-Benz M-Class ML 350 4Matic,Bangalore,2015,20000,0.0,2987.0,165.0,5.0,47.35,False,False,False,False,False,False,10
+4708,BMW X3 xDrive30d M Sport,Bangalore,2016,49000,16.55,2993.0,258.0,5.0,45.0,False,False,False,False,False,False,9
+4722,Mercedes-Benz SL-Class SL 500,Kolkata,2010,35000,8.1,5461.0,387.3,2.0,29.5,False,True,False,False,False,False,15
+4726,Audi Q3 2012-2015 35 TDI Quattro Premium Plus,Delhi,2016,42000,15.73,1968.0,174.33,5.0,23.5,False,False,False,False,False,False,9
+4737,Ford Endeavour 2.2 Trend MT 4X4,Kochi,2017,38681,13.5,2198.0,157.7,7.0,23.86,False,False,True,False,False,False,8
+4742,Mini Cooper Countryman D,Bangalore,2014,35165,23.8,1998.0,112.0,5.0,22.0,False,False,False,False,True,False,11
+4755,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,Hyderabad,2016,52000,15.68,1999.0,177.0,5.0,42.0,False,False,False,False,False,False,9
+4770,Mercedes-Benz GLA Class 200 CDI,Mumbai,2016,43022,17.9,2143.0,136.0,5.0,24.85,False,False,False,False,False,False,9
+4778,Mercedes-Benz S-Class S 350 d,Bangalore,2011,47140,13.5,2925.0,281.61,5.0,30.0,False,False,False,False,True,False,14
+4788,Volvo V40 D3 R Design,Hyderabad,2015,38000,16.8,1969.0,150.0,5.0,24.0,False,False,False,False,True,False,10
+4790,BMW 7 Series 2007-2012 730Ld,Hyderabad,2009,53000,14.49,2993.0,258.0,5.0,36.0,False,False,False,False,False,False,16
+4795,BMW 3 Series Luxury Line,Kochi,2018,21936,21.76,1995.0,190.0,5.0,37.92,False,False,False,False,False,False,7
+4800,Mercedes-Benz E-Class 2009-2013 E250 CDI Blue Efficiency,Bangalore,2013,48000,14.21,2143.0,203.0,5.0,22.0,False,False,False,False,False,False,12
+4801,Land Rover Freelander 2 SE,Hyderabad,2011,68000,12.39,2179.0,147.51,5.0,22.0,False,False,False,False,False,False,14
+4810,Mercedes-Benz GLA Class 200 Sport Edition,Chennai,2016,28000,13.7,1991.0,183.0,5.0,26.0,False,True,False,False,False,False,9
+4813,Audi Q5 2008-2012 2.0 TDI,Coimbatore,2013,80127,12.8,1968.0,167.6,5.0,23.68,False,False,False,False,False,False,12
+4821,BMW 6 Series 630i Coupe,Mumbai,2011,5900,7.94,4395.0,450.0,4.0,47.5,False,True,False,False,False,False,14
+4854,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Mumbai,2015,16329,19.27,2143.0,170.0,5.0,30.3,False,False,False,False,False,False,10
+4856,BMW X3 xDrive20d xLine,Kochi,2017,41816,18.56,1995.0,190.0,5.0,32.78,False,False,False,False,False,False,8
+4858,Audi A4 35 TDI Technology,Hyderabad,2017,14000,18.25,1968.0,187.74,5.0,43.0,False,False,False,False,False,False,8
+4862,Mercedes-Benz New C-Class C 220 CDI Style,Hyderabad,2015,39000,19.27,2143.0,167.62,5.0,34.0,False,False,False,False,False,False,10
+4869,Land Rover Range Rover 3.6 TDV8 Vogue SE,Coimbatore,2012,84384,10.2,4367.0,308.0,7.0,52.54,False,False,False,False,False,False,13
+4889,Mercedes-Benz M-Class ML 250 CDI,Hyderabad,2014,50000,15.26,2143.0,203.2,5.0,45.0,False,False,False,False,False,False,11
+4893,BMW Z4 2009-2013 Roadster 2.5i,Kochi,2018,9952,10.37,2979.0,306.0,2.0,58.54,False,True,False,False,False,False,7
+4906,Ford Endeavour 3.2 Titanium AT 4X4,Hyderabad,2018,15000,10.91,3198.0,197.0,7.0,33.0,False,False,False,False,False,False,7
+4914,Mercedes-Benz GLC 220d 4MATIC Style,Mumbai,2017,24000,17.9,2143.0,170.0,5.0,46.95,False,False,False,False,False,False,8
+4924,Mercedes-Benz M-Class ML 250 CDI,Jaipur,2014,66000,15.26,2143.0,203.2,5.0,30.0,False,False,False,False,False,False,11
+4925,Land Rover Discovery Sport TD4 S,Delhi,2017,22000,12.83,2179.0,147.5,5.0,35.0,False,False,False,False,False,False,8
+4933,BMW X5 xDrive 30d,Chennai,2011,55000,11.7,2993.0,245.0,5.0,28.0,False,False,False,False,True,False,14
+4936,Audi A6 2011-2015 35 TDI Technology,Hyderabad,2015,50000,17.68,1968.0,174.33,5.0,36.0,False,False,False,False,False,False,10
+4938,Audi Q7 4.2 TDI Quattro Technology,Coimbatore,2015,56238,11.33,4134.0,335.2,7.0,51.69,False,False,False,False,False,False,10
+4942,Audi A4 35 TDI Premium Plus,Coimbatore,2014,28469,18.25,1968.0,187.74,5.0,24.37,False,False,False,False,False,False,11
+4948,Mercedes-Benz M-Class ML 250 CDI,Mumbai,2012,52000,15.26,2143.0,203.2,5.0,29.95,False,False,False,False,False,False,13
+4956,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Coimbatore,2017,26493,19.27,2143.0,170.0,5.0,33.64,False,False,False,False,False,False,8
+4988,BMW 5 Series 530d M Sport,Hyderabad,2016,27000,18.59,2993.0,265.0,5.0,48.0,False,False,False,False,False,False,9
+4993,BMW X3 xDrive20d,Bangalore,2016,45165,16.09,1995.0,184.0,5.0,41.75,False,False,False,False,False,False,9
+5002,BMW X3 xDrive 20d xLine,Kochi,2017,36723,18.56,1995.0,190.0,5.0,32.57,False,False,False,False,False,False,8
+5009,Audi Q7 45 TDI Quattro Technology,Pune,2017,59500,14.75,2967.0,245.0,7.0,68.0,False,False,False,False,False,False,8
+5022,Land Rover Freelander 2 TD4 SE,Hyderabad,2013,46000,0.0,2179.0,115.0,5.0,26.0,False,False,False,False,True,False,12
+5027,Audi A4 2.0 TDI 177 Bhp Technology Edition,Bangalore,2014,29000,17.11,1968.0,174.33,5.0,26.0,False,False,False,False,False,False,11
+5038,Land Rover Discovery Sport TD4 HSE 7S,Coimbatore,2019,24013,12.81,1999.0,148.31,7.0,56.14,False,False,False,False,False,False,6
+5042,Audi A4 2.0 TDI Premium Sport Limited Edition,Coimbatore,2015,44811,17.11,1968.0,174.33,5.0,25.81,False,False,False,False,False,False,10
+5067,Land Rover Discovery Sport SD4 HSE Luxury 7S,Coimbatore,2019,17201,12.51,2179.0,187.7,7.0,58.91,False,False,False,False,False,False,6
+5073,Mercedes-Benz E-Class E 200 CGI,Mumbai,2013,50319,12.0,1991.0,181.03,5.0,21.95,False,True,False,False,False,False,12
+5075,Mercedes-Benz New C-Class C 200 Kompressor Elegance AT,Kolkata,2007,43627,11.74,1796.0,186.0,5.0,29.0,False,True,False,False,False,False,18
+5082,BMW 3 Series 330 Ci Convertible,Delhi,2011,31000,10.9,2497.0,215.0,5.0,31.0,False,True,False,False,False,False,14
+5088,Jaguar XJ 5.0 L V8 Supercharged,Coimbatore,2011,43686,10.5,5000.0,503.0,4.0,50.66,False,True,False,False,False,False,14
+5094,Mercedes-Benz GLC 220d Celebration Edition,Kochi,2017,26192,17.9,2143.0,168.0,5.0,40.47,False,False,False,False,False,False,8
+5096,Audi Q5 2008-2012 2.0 TDI,Delhi,2014,44999,12.8,1968.0,167.6,5.0,25.0,False,False,False,False,False,False,11
+5107,Mercedes-Benz GLE 250d,Hyderabad,2016,50000,17.9,2143.0,201.15,5.0,49.0,False,False,False,False,False,False,9
+5118,Mercedes-Benz GLE 350d,Bangalore,2016,28541,11.57,2987.0,254.79,5.0,60.75,False,False,False,False,False,False,9
+5122,Toyota Fortuner 4x2 Manual,Chennai,2015,99000,13.0,2982.0,168.5,7.0,20.5,False,False,True,False,False,False,10
+5140,Mercedes-Benz E-Class 2009-2013 E250 CDI Elegance,Delhi,2014,42000,14.21,2143.0,203.0,5.0,24.95,False,False,False,False,False,False,11
+5146,Audi Q7 3.0 TDI quattro,Coimbatore,2014,118218,12.07,2967.0,241.4,7.0,31.41,False,False,False,False,False,False,11
+5153,Audi Q3 2.0 TDI,Mumbai,2013,60000,15.73,1968.0,174.33,5.0,22.0,False,False,False,False,False,False,12
+5158,Mercedes-Benz CLA 200 CDI Sport,Kochi,2019,20483,17.9,2143.0,136.0,5.0,30.3,False,False,False,False,False,False,6
+5166,Mercedes-Benz CLA 200 CDI Sport,Jaipur,2017,39000,17.9,2143.0,136.0,5.0,27.0,False,False,False,False,False,False,8
+5191,Ford Endeavour 2.2 Titanium AT 4X2,Chennai,2019,9000,12.62,2198.0,158.0,7.0,32.9,False,False,False,False,False,False,6
+5218,BMW 3 Series 330d Convertible,Mumbai,2013,49000,8.2,2993.0,245.0,4.0,29.0,False,False,False,False,False,False,12
+5239,Audi Q5 2.0 TDI,Hyderabad,2013,72000,14.16,1968.0,174.3,5.0,29.0,False,False,False,False,False,False,12
+5242,Audi Q7 3.0 TDI Quattro Premium Plus,Bangalore,2014,45000,12.07,2967.0,241.4,7.0,37.9,False,False,False,False,True,False,11
+5247,BMW 5 Series 2010-2013 530d,Coimbatore,2012,40471,16.2,2993.0,235.0,5.0,25.72,False,False,False,False,True,False,13
+5276,Mercedes-Benz CLA 200 D Sport Edition,Ahmedabad,2015,13500,17.9,2143.0,136.0,5.0,25.51,False,False,False,False,False,False,10
+5278,Ford Endeavour 3.2 Titanium AT 4X4,Delhi,2018,12000,10.91,3198.0,197.0,7.0,33.5,False,False,False,False,False,False,7
+5294,BMW Z4 2009-2013 35i,Delhi,2011,25000,10.37,2979.0,306.0,2.0,30.0,False,True,False,False,False,False,14
+5296,Mini Cooper S Carbon Edition,Delhi,2012,18000,13.6,1598.0,181.0,4.0,22.0,False,True,False,False,False,False,13
+5302,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2016,31075,12.07,2967.0,241.4,7.0,49.79,False,False,False,False,True,False,9
+5304,BMW 3 Series Luxury Line,Bangalore,2017,21000,21.76,1995.0,190.0,5.0,35.0,False,False,False,False,False,False,8
+5305,Mercedes-Benz M-Class ML 350 CDI Corporate,Bangalore,2011,54000,14.0,2987.0,224.0,5.0,21.99,False,False,False,False,False,False,14
+5312,Audi Q5 30 TDI quattro Premium,Mumbai,2015,52000,14.16,1968.0,174.3,5.0,25.49,False,False,False,False,False,False,10
+5313,Audi A6 35 TDI Matrix,Chennai,2015,20000,18.53,1968.0,187.74,5.0,35.5,False,False,False,False,False,False,10
+5323,Ford Endeavour 3.2 Titanium AT 4X4,Chennai,2017,17000,10.91,3198.0,197.0,7.0,31.0,False,False,False,False,False,False,8
+5328,BMW 3 Series 320d Luxury Line,Hyderabad,2015,47000,22.69,1995.0,190.0,5.0,29.5,False,False,False,False,False,False,10
+5341,Porsche Cayenne S Diesel,Coimbatore,2016,65003,13.6,4134.0,382.0,5.0,67.83,False,False,False,False,False,False,9
+5346,Audi Q3 2012-2015 2.0 TDI Quattro Premium Plus,Hyderabad,2013,63716,15.73,1968.0,174.33,5.0,23.0,False,False,False,False,False,False,12
+5362,Audi A4 2.0 TDI 177 Bhp Premium Plus,Bangalore,2014,29063,17.11,1968.0,174.33,5.0,25.75,False,False,False,False,False,False,11
+5372,BMW 5 Series 2013-2017 520d Luxury Line,Pune,2014,32000,18.12,1995.0,190.0,5.0,30.5,False,False,False,False,False,False,11
+5374,Mercedes-Benz M-Class ML 350 4Matic,Ahmedabad,2012,66000,0.0,2987.0,165.0,5.0,23.0,False,False,False,False,False,False,13
+5382,Land Rover Range Rover 2.2L Prestige,Delhi,2015,37000,12.7,2179.0,187.7,5.0,36.0,False,False,False,False,False,False,10
+5397,Mini Cooper S Carbon Edition,Mumbai,2013,52000,13.6,1598.0,181.0,4.0,25.0,False,True,False,False,False,False,12
+5405,Audi Q7 3.0 TDI Quattro Premium Plus,Delhi,2014,58000,12.07,2967.0,241.4,7.0,32.0,False,False,False,False,False,False,11
+5411,Land Rover Range Rover 2.2L Pure,Delhi,2014,38999,12.7,2179.0,187.7,5.0,32.5,False,False,False,False,False,False,11
+5414,Mercedes-Benz R-Class R350 4Matic Long,Kochi,2014,45710,11.8,3498.0,272.0,7.0,23.68,False,True,False,False,False,False,11
+5416,Land Rover Range Rover Vogue SE 4.4 SDV8,Coimbatore,2013,75995,11.49,4367.0,335.3,5.0,65.81,False,False,False,False,True,False,12
+5420,BMW 3 Series Sport,Mumbai,2016,19000,21.76,1995.0,190.0,5.0,29.99,False,False,False,False,True,False,9
+5423,Hyundai Santa Fe 4x4 AT,Bangalore,2016,36000,11.72,2199.0,194.3,7.0,23.0,False,False,False,False,False,False,9
+5441,Ford Endeavour 3.2 Titanium AT 4X4,Coimbatore,2017,54650,10.91,3198.0,197.0,7.0,30.35,False,False,False,False,False,False,8
+5447,Mercedes-Benz GLA Class 200 d Style,Kochi,2016,26212,17.9,2143.0,136.0,5.0,24.46,False,False,False,False,False,False,9
+5459,Mercedes-Benz E-Class Facelift,Bangalore,2014,28000,13.0,2987.0,258.0,5.0,31.75,False,False,False,False,False,False,11
+5460,Audi A6 2011-2015 35 TDI Technology,Bangalore,2015,37500,17.68,1968.0,174.33,5.0,32.0,False,False,False,False,False,False,10
+5461,Mercedes-Benz S Class 2005 2013 S 350 CDI,Hyderabad,2010,37000,13.5,2987.0,282.0,5.0,21.0,False,False,False,False,False,False,15
+5477,Land Rover Range Rover HSE Dynamic,Kochi,2018,52827,12.7,2179.0,187.7,5.0,44.76,False,False,False,False,False,False,7
+5512,Porsche Cayenne 2009-2014 Diesel,Kochi,2015,47877,15.15,2967.0,240.0,5.0,48.22,False,False,False,False,False,False,10
+5516,BMW X3 xDrive 20d Luxury Line,Mumbai,2018,1400,18.56,1995.0,190.0,5.0,61.25,False,False,False,False,False,False,7
+5518,Mini Cooper 3 DOOR S,Kochi,2016,21110,17.44,1998.0,189.08,4.0,28.95,False,True,False,False,False,False,9
+5521,Bentley Continental Flying Spur,Hyderabad,2006,48000,8.6,5998.0,552.0,4.0,59.0,False,True,False,False,False,False,19
+5525,Mercedes-Benz New C-Class C 220 CDI BE Avantgare,Bangalore,2016,37944,14.84,2143.0,167.62,5.0,35.0,False,False,False,False,False,False,9
+5530,Land Rover Freelander 2 SE,Kochi,2014,59885,12.39,2179.0,147.51,5.0,20.11,False,False,False,False,False,False,11
+5535,BMW X6 xDrive 40d M Sport,Ahmedabad,2015,97003,15.87,2993.0,308.43,5.0,85.0,False,False,False,False,False,False,10
+5539,Land Rover Discovery Sport SD4 HSE Luxury,Delhi,2016,70000,12.97,2179.0,187.7,5.0,35.0,False,False,False,False,False,False,9
+5545,Land Rover Range Rover Sport SE,Delhi,2014,47000,12.65,2993.0,255.0,5.0,64.75,False,False,False,False,True,False,11
+5552,BMW 5 Series 2013-2017 530d M Sport,Pune,2014,88000,14.69,2993.0,258.0,5.0,27.0,False,False,False,False,False,False,11
+5557,Mercedes-Benz GLA Class 200 CDI SPORT,Bangalore,2017,16500,17.9,2143.0,136.0,5.0,34.0,False,False,False,False,False,False,8
+5558,BMW 5 Series 520d Luxury Line,Coimbatore,2016,75637,22.48,1995.0,190.0,5.0,30.37,False,False,False,False,False,False,9
+5561,Audi A4 3.0 TDI Quattro,Bangalore,2014,30000,14.94,2967.0,241.4,5.0,24.5,False,False,False,False,False,False,11
+5564,BMW 3 Series 320d Luxury Line,Kochi,2016,62404,22.69,1995.0,190.0,5.0,21.33,False,False,False,False,False,False,9
+5568,BMW 3 Series Luxury Line,Coimbatore,2017,34232,21.76,1995.0,190.0,5.0,35.84,False,False,False,False,False,False,8
+5582,Toyota Fortuner 2.8 2WD AT,Coimbatore,2019,28069,12.9,2755.0,174.5,7.0,30.85,False,False,False,False,False,False,6
+5586,Audi Q5 2008-2012 2.0 TDI,Kochi,2013,12467,12.8,1968.0,167.6,5.0,25.64,False,False,False,False,False,False,12
+5595,BMW 5 Series 2013-2017 520d Luxury Line,Jaipur,2013,40714,18.12,1995.0,190.0,5.0,24.75,False,False,False,False,True,False,12
+5599,Mercedes-Benz E-Class 2009-2013 E 220 CDI Avantgarde,Jaipur,2013,60000,10.0,2148.0,170.0,5.0,27.0,False,False,False,False,False,False,12
+5601,BMW X1 xDrive 20d xLine,Delhi,2017,23000,20.68,1995.0,190.0,5.0,28.75,False,False,False,False,False,False,8
+5603,Porsche Panamera 2010 2013 Diesel,Delhi,2013,36400,7.5,4806.0,394.3,4.0,72.0,False,False,False,False,False,False,12
+5618,BMW 5 Series 520d Sport Line,Delhi,2017,16485,22.48,1995.0,187.74,5.0,42.75,False,False,False,False,False,False,8
+5673,Mercedes-Benz CLA 200 D Sport Edition,Coimbatore,2019,15976,17.9,2143.0,136.0,5.0,36.76,False,False,False,False,False,False,6
+5692,Mercedes-Benz S Class 2005 2013 S 300 L,Pune,2013,80000,13.0,2987.0,210.0,5.0,25.0,False,True,False,False,False,False,12
+5699,Audi A4 2.0 TDI,Bangalore,2014,37600,16.55,1968.0,147.51,5.0,22.5,False,False,False,False,True,False,11
+5702,BMW 7 Series 730Ld,Chennai,2013,38000,16.46,2993.0,258.0,5.0,45.0,False,False,False,False,False,False,12
+5727,BMW X1 xDrive 20d xLine,Kochi,2018,30733,20.68,1995.0,190.0,5.0,29.3,False,False,False,False,False,False,7
+5740,BMW X5 xDrive 30d M Sport,Chennai,2017,21000,15.97,2993.0,258.0,5.0,55.0,False,False,False,False,True,False,8
+5741,Audi A6 2011-2015 2.0 TDI Premium Plus,Pune,2013,85000,17.68,1968.0,174.33,5.0,21.0,False,False,False,False,False,False,12
+5743,Hyundai Santa Fe 4WD AT,Coimbatore,2016,45794,13.01,2199.0,194.3,7.0,20.67,False,False,False,False,False,False,9
+5745,Mercedes-Benz E-Class 2015-2017 E250 Edition E,Coimbatore,2018,41467,15.0,2143.0,204.0,5.0,37.98,False,False,False,False,False,False,7
+5751,BMW 3 Series 320d Prestige,Hyderabad,2015,30000,18.88,1995.0,184.0,5.0,22.0,False,False,False,False,False,False,10
+5761,Audi Q7 3.0 TDI Quattro Premium Plus,Coimbatore,2015,55662,12.07,2967.0,241.4,7.0,42.83,False,False,False,False,False,False,10
+5762,Volvo S60 D4 Momentum,Hyderabad,2014,51000,27.03,1969.0,190.0,5.0,21.5,False,False,False,False,False,False,11
+5775,BMW 6 Series Gran Coupe,Mumbai,2013,30000,17.54,2993.0,313.0,4.0,45.0,False,False,False,False,False,False,12
+5776,Audi A4 2.0 TDI 177 Bhp Premium Plus,Chennai,2014,40000,17.11,1968.0,174.33,5.0,22.0,False,False,False,False,False,False,11
+5781,Lamborghini Gallardo Coupe,Delhi,2011,6500,6.4,5204.0,560.0,2.0,120.0,False,True,False,False,False,True,14
+5782,Jaguar XF 3.0 Litre S Premium Luxury,Hyderabad,2012,35000,14.74,2993.0,270.9,5.0,29.0,False,False,False,False,False,False,13
+5791,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Coimbatore,2016,41082,13.0,2143.0,204.0,5.0,38.76,False,False,False,False,False,False,9
+5803,Mercedes-Benz GL-Class 350 CDI Blue Efficiency,Chennai,2013,100000,11.3,2987.0,254.8,7.0,38.0,False,False,False,False,True,False,12
+5845,BMW 5 Series 525d Sedan,Mumbai,2013,35000,16.73,2993.0,218.0,5.0,21.0,False,False,False,False,False,False,12
+5848,Audi A6 2011-2015 35 TDI Technology,Coimbatore,2017,55975,17.68,1968.0,174.33,5.0,35.92,False,False,False,False,True,False,8
+5863,Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury,Mumbai,2015,48600,12.0,2987.0,224.0,7.0,48.5,False,False,False,False,False,False,10
+5867,Skoda Superb L&K 2.0 TDI AT,Mumbai,2017,35000,18.19,1968.0,174.5,5.0,25.75,False,False,False,False,False,False,8
+5868,BMW 3 Series 330d Convertible,Kochi,2014,51240,8.2,2993.0,245.0,4.0,29.52,False,False,False,False,False,False,11
+5874,Mercedes-Benz E-Class 200 Kompressor Elegance,Delhi,2014,40000,10.5,1796.0,157.7,5.0,24.0,False,True,False,False,False,False,11
+5875,Mercedes-Benz C-Class Progressive C 220d,Ahmedabad,2019,4000,0.0,1950.0,194.0,5.0,35.0,False,False,False,False,False,False,6
+5900,Mercedes-Benz GLC 220,Coimbatore,2017,50794,17.9,2143.0,170.0,5.0,43.3,False,False,False,False,False,False,8
+5909,Toyota Fortuner 4x4 AT,Delhi,2015,90000,12.55,2982.0,168.5,7.0,21.5,False,False,False,False,False,False,10
+5919,Jaguar F Type 5.0 V8 S,Hyderabad,2015,8000,12.5,5000.0,488.1,2.0,100.0,False,True,False,False,False,False,10
+5921,Mercedes-Benz E-Class 2015-2017 E250 CDI Avantgarde,Mumbai,2016,21000,13.0,2143.0,204.0,5.0,36.0,False,False,False,False,False,False,9
+5923,Skoda Superb Style 2.0 TDI AT,Mumbai,2017,42000,18.19,1968.0,174.5,5.0,22.99,False,False,False,False,False,False,8
+5927,Audi Q5 3.0 TDI Quattro Technology,Coimbatore,2018,29091,13.22,2967.0,241.4,5.0,45.52,False,False,False,False,False,False,7
+5946,BMW 5 Series 2013-2017 530d M Sport,Bangalore,2016,16000,14.69,2993.0,258.0,5.0,48.0,False,False,False,False,False,False,9
+5950,Audi Q3 2.0 TDI,Bangalore,2014,65630,15.73,1968.0,174.33,5.0,21.75,False,False,False,False,False,False,11
+5970,Mercedes-Benz GLA Class 200 Sport,Kochi,2018,17773,13.7,1991.0,183.0,5.0,26.76,False,True,False,False,False,False,7
+5996,Jaguar XF 2.2 Litre Luxury,Kochi,2016,31150,16.36,2179.0,187.7,5.0,30.54,False,False,False,False,False,False,9
+6008,Porsche Panamera Diesel,Hyderabad,2013,40000,17.85,2967.0,300.0,4.0,45.0,False,False,False,False,True,False,12
